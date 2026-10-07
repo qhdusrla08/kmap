@@ -1,0 +1,47 @@
+fold 0 done
+fold 1 done
+fold 2 done
+fold 3 done
+{
+ "model": "p2_coco_v2",
+ "t_low": 0.8461538461538461,
+ "n_objects": 969,
+ "n_images": 400,
+ "corr_std_vs_mean_objects": -0.497696088751606,
+ "rules": [
+  {
+   "u": 0.02,
+   "misses_at_t_low": 30,
+   "misses_recovered": 16,
+   "extra_reinspect_rate_neg_proxy": 0.0075
+  },
+  {
+   "u": 0.05,
+   "misses_at_t_low": 30,
+   "misses_recovered": 16,
+   "extra_reinspect_rate_neg_proxy": 0.0025
+  },
+  {
+   "u": 0.1,
+   "misses_at_t_low": 30,
+   "misses_recovered": 16,
+   "extra_reinspect_rate_neg_proxy": 0.0025
+  },
+  {
+   "u": 0.15,
+   "misses_at_t_low": 30,
+   "misses_recovered": 16,
+   "extra_reinspect_rate_neg_proxy": 0.0025
+  },
+  {
+   "u": 0.2,
+   "misses_at_t_low": 30,
+   "misses_recovered": 16,
+   "extra_reinspect_rate_neg_proxy": 0.0025
+  }
+ ],
+ "recall_objects_id_at_t_low": 0.9690402476780186,
+ "recall_objects_tta_mean_at_t_low": 0.9494324045407637,
+ "negproxy_fpr_id_at_t_low": 0.0025,
+ "negproxy_fpr_tta_mean_at_t_low": 0.0025
+}

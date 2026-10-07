@@ -1,0 +1,39 @@
+threshold 0.530: objects 969, FN 16, FP 23 (localization 16, background 7)
+ iou    AP  recall  precision  FPPI
+ 0.3 0.989   0.999      0.992 0.020
+ 0.4 0.989   0.997      0.990 0.025
+ 0.5 0.967   0.983      0.976 0.058
+ 0.6 0.761   0.874      0.868 0.322
+ 0.7 0.321   0.570      0.566 1.060
+        variable        level   n  recall  FN  ci_lo  ci_hi  mean_score  min_score
+           weber   (0.6, 1.0]  33   0.939   2  0.804  0.983       0.939        0.0
+        bg_local    (90, 100] 178   0.955   8  0.914  0.977       0.955        0.0
+        box_area      (0, 80] 205   0.956   9  0.919  0.977       0.956        0.0
+   dist_band_end     (11, 15] 219   0.959   9  0.924  0.978       0.958        0.0
+           weber  (0.0, 0.45] 102   0.961   4  0.903  0.985       0.960        0.0
+       dist_edge     (55, 65] 187   0.963   7  0.925  0.982       0.963        0.0
+           width          576 309   0.964  11  0.937  0.980       0.964        0.0
+         machine            3 309   0.964  11  0.937  0.980       0.964        0.0
+        col_rank            1 285   0.968   9  0.941  0.983       0.968        0.0
+        box_area   (170, 500] 131   0.969   4  0.924  0.988       0.969        0.0
+           month            8  35   0.971   1  0.855  0.995       0.971        0.0
+ana_mark_overlap (-0.01, 0.0] 265   0.974   7  0.946  0.987       0.974        0.0
+       core_area      (4, 10]  39   0.974   1  0.868  0.995       0.974        0.0
+           month            7  87   0.977   2  0.920  0.994       0.977        0.0
+ana_mark_overlap   (0.3, 1.0] 185   0.978   4  0.946  0.992       0.978        0.0
+            term   coef  ci_lo  ci_hi
+       intercept  6.650  6.462  7.032
+      core_depth  0.065 -0.219  0.451
+       core_area -0.018 -0.238  0.068
+        box_area -0.103 -0.936  1.718
+        bg_local -0.385 -0.773  0.114
+   dist_band_end -0.007 -0.109  0.156
+        machine3 -0.387 -1.332  0.284
+        machine2 -0.303 -1.030  0.173
+       three_obj  0.032 -0.404  0.306
+ana_mark_overlap  0.159 -0.505  0.361
+depth_x_machine3 -0.003 -0.422  0.338
+type          where  
+background    band        5
+              product     2
+localization  band       16

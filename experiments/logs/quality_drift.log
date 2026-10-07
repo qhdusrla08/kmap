@@ -1,0 +1,43 @@
+/home/yeon030108/kmap/src/analysis/quality_drift.py:86: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  res["m3_1band_spearman"] = {c: dict(rho=float(stats.spearmanr(m31[c], m31.top1_devall, nan_policy="omit")[0]),
+/home/yeon030108/kmap/src/analysis/quality_drift.py:87: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  p=float(stats.spearmanr(m31[c], m31.top1_devall, nan_policy="omit")[1]))
+                 noise_sigma  bg_level  product_level  band_level  band_contrast  top1_devall
+machine product                                                                              
+1       1band           1.33     210.0          147.0       116.0           30.0         0.73
+        3band           1.17     210.0          146.0       115.0           30.0         0.71
+        no_band         1.39     210.0          141.5         NaN            NaN         0.00
+2       1band           1.57     210.0          110.0        79.0           31.0         0.73
+        3band           1.51     210.0          110.0        79.0           31.0         0.73
+        no_band         1.49     210.0          106.0         NaN            NaN          NaN
+3       1band           3.51     210.0          127.0        97.0           30.0         0.64
+        3band           3.46     210.0          127.0        97.0           31.0         0.69
+{
+ "m3_1band_spearman": {
+  "noise_sigma": {
+   "rho": 0.06112209685591827,
+   "p": 0.25615241454256116
+  },
+  "bg_level": {
+   "rho": NaN,
+   "p": NaN
+  },
+  "product_level": {
+   "rho": 0.0354640490716131,
+   "p": 0.5102519213115955
+  },
+  "band_level": {
+   "rho": 0.026145291048801932,
+   "p": 0.6274221123812032
+  },
+  "band_contrast": {
+   "rho": -0.012646952585122587,
+   "p": 0.8144059231647828
+  }
+ },
+ "m3_1band_n": 347,
+ "r2_group": 0.6417331609915767,
+ "r2_quality": 0.5205119268211966,
+ "r2_group_plus_quality": 0.6428892424655217,
+ "n_regression": 1928
+}

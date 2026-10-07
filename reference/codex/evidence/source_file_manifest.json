@@ -1,0 +1,2652 @@
+[
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200622_203305(8).txt",
+    "bytes": 238,
+    "sha256_file": "beacc3ef7875fb3ff6e932e43388a6f8a99590db908f64487df91a5c2f644a94"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200622_203309(1).txt",
+    "bytes": 249,
+    "sha256_file": "f11feaf4aeeaecfba595478080f53ba00ccd38cb20ff1a6e3f33ee718dcd6e1a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200622_203312(6).txt",
+    "bytes": 236,
+    "sha256_file": "23d2a26f38d5f6c86ffafc6860c7e965870f84d9dd54a29bc2ce720bcb249745"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200622_203316(0).txt",
+    "bytes": 248,
+    "sha256_file": "29a0779224f6fcc5c717fce7b644e331d25818aa01070a0a791b289690929058"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200622_203319(4).txt",
+    "bytes": 246,
+    "sha256_file": "b6efa2ea290bf86b11de2de2e480447be4a15c6c20b79e973a343d7636a1556e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200622_203330(3).txt",
+    "bytes": 236,
+    "sha256_file": "7b23b878531e9b9227ad319fd396918a45cf25906ec7b195d4ab54ab47919d85"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_003516(8).txt",
+    "bytes": 247,
+    "sha256_file": "fac5b8f5df457bcc84a1cb795d92de897e91dc5e8e623f8a5612e9c46112679b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_003520(5).txt",
+    "bytes": 249,
+    "sha256_file": "3007cfe0ebcbfc865ed08be164df00d72345f9b0485727108924325a1c6dfe17"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_003524(0).txt",
+    "bytes": 239,
+    "sha256_file": "c72e1be91da74927ffd64c80b4e8a33f39af531da597957d679fc7f9c556f134"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_003529(0).txt",
+    "bytes": 238,
+    "sha256_file": "9e7dd344a6dd08bc7943e598204a828d0d31bc88f1b954630fa110778823d49f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_003532(5).txt",
+    "bytes": 248,
+    "sha256_file": "15719cbc1c6582055c4aa0a42a526defa074c71f79ec8463bbf5ae6de6b1e174"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_003536(0).txt",
+    "bytes": 248,
+    "sha256_file": "1bd74629eae32f097bc83286f6ec09c446f24f8f956adb3ed399eb3797ce3247"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_043227(1).txt",
+    "bytes": 248,
+    "sha256_file": "016e05725fbc674e65e5a4a585583187002f8f6adec43283a55557673d637681"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_043231(6).txt",
+    "bytes": 249,
+    "sha256_file": "a102ce94deba6f303c0e033bc55cc108e2bd920dc7decb73089f5426bcd9c7fa"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_043236(1).txt",
+    "bytes": 247,
+    "sha256_file": "a0d9ed5be6e7872b18dc9857939545956562653fbc82e3723b2464bbec0c17fe"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_043240(6).txt",
+    "bytes": 247,
+    "sha256_file": "3bebac1dff88e8e34249411f9e6f76d56fd44f2214138751aa81fbd74198604b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_043245(2).txt",
+    "bytes": 227,
+    "sha256_file": "81397cb26c97c8a3fc47085164788ca8a6cd124f71ee344bf2cf0bddea25bb56"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_043249(6).txt",
+    "bytes": 248,
+    "sha256_file": "bc47ec20bf28cebf07e7c9a592313ab6e246b4751b6972e5d3dae2f69354ac51"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_082407(9).txt",
+    "bytes": 238,
+    "sha256_file": "c0778c60eec3a890baff173f96e75d243953c90d9733ca4921d8dbb89b79953f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_082411(0).txt",
+    "bytes": 248,
+    "sha256_file": "b416fbdc21a7f377544f6ef4f64cffbd24b4e52cb3227ae7740841877bea549d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_082414(1).txt",
+    "bytes": 248,
+    "sha256_file": "f3b3385d10d76702547e448a837c54c0c38949c99aca3a79a9f7719e8e7b9955"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_082416(7).txt",
+    "bytes": 226,
+    "sha256_file": "f1e4251c7b6a22b8b23a3ff5c3a900acc756215ebdead5fe921fed94cc2db6af"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_082419(6).txt",
+    "bytes": 223,
+    "sha256_file": "3ffa2986a52ec2c56770f4d47699a0cf8722e9bd151e863dc7ab344a4008a776"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_082422(5).txt",
+    "bytes": 248,
+    "sha256_file": "d46737910069853e322bb22d034f259b236a03f1e511209a67fe30ef27f4012e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_123214(3).txt",
+    "bytes": 247,
+    "sha256_file": "ede45a06d27568bfa1c9ce6e6bc5522e87f18c50012689abcaaafe0e9498f86b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_123223(3).txt",
+    "bytes": 237,
+    "sha256_file": "06e4bde0e82667f4597ed6fde99640df575c9a165650537a6b30c15eb291812f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_123232(3).txt",
+    "bytes": 248,
+    "sha256_file": "f8e6ae319f7108b7434f7ed90f6a03cb87b236f4a67f4f2f00f986fb7eff6142"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_123236(9).txt",
+    "bytes": 240,
+    "sha256_file": "8e5875ce60952385b9e60f7fa5a9daa172dc02d6e53881301a36f4103b21f192"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_123241(3).txt",
+    "bytes": 247,
+    "sha256_file": "29ea4130525e92dc8e7dd964706b84b3265e1e625ed212853581849e5292e378"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_123245(8).txt",
+    "bytes": 239,
+    "sha256_file": "c9838ac19a9d045aefa49ccb99f7ede3e6587beae8e99ec7003ed806f04bc586"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_163159(5).txt",
+    "bytes": 247,
+    "sha256_file": "ce8a61829761ea8737b06ff826cfa97465f85eec6b0d908e59b02f392edc37d7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_163209(3).txt",
+    "bytes": 249,
+    "sha256_file": "6442058549a0544d8a2d643307eed8e5ca0e80114581d65be630e45c617460fa"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_163212(9).txt",
+    "bytes": 249,
+    "sha256_file": "47fb718c60d45fdd5a22a95b979377ba2fc3eaaf4d50462475a50252b55d63a5"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_163216(2).txt",
+    "bytes": 229,
+    "sha256_file": "1ce6c53fbfe2174499732577e89f0d19022711896a05e5cfbe1fc212ef8116fd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_163219(5).txt",
+    "bytes": 228,
+    "sha256_file": "73134d77bad50b83e9572bd2e402023fda38395d8e8348fb57ca5b3579876878"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_163222(9).txt",
+    "bytes": 248,
+    "sha256_file": "9ffcebf87865bde2a34b366e47670d9f04b833e8e0ff9c1ec4a6a63998e8ae24"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_203217(4).txt",
+    "bytes": 247,
+    "sha256_file": "91a36936daf149b29a4b2659ff5fe69d8e8d575aceff7ce105872fdf45a0a4ff"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_203222(0).txt",
+    "bytes": 247,
+    "sha256_file": "4cdc15a6bb1c12d33ca4f353962521ce8788c0e23d337eeafe309aebda0b6fca"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_203226(3).txt",
+    "bytes": 248,
+    "sha256_file": "c979b21af6f9e7080392b7f94c0cbf1ca91b2de5d7bf787b00fedb7dbc53b201"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_203230(9).txt",
+    "bytes": 249,
+    "sha256_file": "bfad9bd2b3edaa510f33dd574fe3a017b7814c932b1839a7f00086ff1b101260"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_203235(3).txt",
+    "bytes": 247,
+    "sha256_file": "c5a38d06b2ce6a74caa2e5195310751939bd57b5ae234ad79e9bace4a103397c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200623_203247(5).txt",
+    "bytes": 239,
+    "sha256_file": "d6fff4c89299303319682acb431e9f9bbaeee220a6c083cf35f09a39b1117a9e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_003240(4).txt",
+    "bytes": 247,
+    "sha256_file": "89dbde0a5d6216c25e0cef40d65f314fdf916ddcbefd0e9efc17db3c4b1405bd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_003244(2).txt",
+    "bytes": 246,
+    "sha256_file": "0064079d0f2516b02f6e5f79738f53db9ad5e2328d3a4c94bb90c96884c75686"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_003247(7).txt",
+    "bytes": 236,
+    "sha256_file": "5335c26d0aeb6443a2afbdcb5c453dc08f79116dd9a8ab86ff3de62da839690d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_003251(1).txt",
+    "bytes": 247,
+    "sha256_file": "13f17adb7d8d330c0368eeafb042841d03d54701befffb7a44097e1f47736e25"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_003254(3).txt",
+    "bytes": 249,
+    "sha256_file": "44efa5c614ba8c514d09674e3b47e302d59174243a04cc8e2938d0991b0ad72b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_003303(5).txt",
+    "bytes": 250,
+    "sha256_file": "be6d68140518873e125c698f6e8c3be21cd2ad155706236929b273705b4cae35"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_043315(2).txt",
+    "bytes": 248,
+    "sha256_file": "efa2dcd0611c18bb039e66d991fced74fc5d9238b5c0650e9d4eea202bc31662"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_043324(2).txt",
+    "bytes": 247,
+    "sha256_file": "5e88c5e4c0ffc1e81ab023f0e5cfc41809a6c4a5ec334912f03fdc418f15d21a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_043328(7).txt",
+    "bytes": 247,
+    "sha256_file": "5585311de32bbe4f935c9f357773779af97f7268a79ff309dd189e704123db5e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_043333(2).txt",
+    "bytes": 241,
+    "sha256_file": "b634569ec0e0db2b35540a891347ba8c6be8b7de45f97b68e4739f14a32aa0e7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_043337(8).txt",
+    "bytes": 247,
+    "sha256_file": "ed585b51c6d5ca7f331e538594bd6dd2ac21beaa389894342f24579c548f27a2"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_043349(7).txt",
+    "bytes": 249,
+    "sha256_file": "a0457e864e1e3da10baf30cfefeba25a2906f07cf660968787f7b801f816c7fe"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_083150(7).txt",
+    "bytes": 250,
+    "sha256_file": "dc25311961542def8a2259c92448a7e3b7f7bdc88308d2cde710721587fbb145"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_083153(8).txt",
+    "bytes": 248,
+    "sha256_file": "ad8137c907dcc67f0f4fb62d948a194f3ef2cf237ba172d08168c5c950e43990"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_083156(9).txt",
+    "bytes": 245,
+    "sha256_file": "f59a1888b9ef7040c40c07707e566c00106a55e9586e897520dc28212ee4ff16"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_083159(6).txt",
+    "bytes": 247,
+    "sha256_file": "319d31489bc474b4f7aa5f8261f18be82bbef6b2ab9a8e32ba8eb57e4ddfa235"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_083202(6).txt",
+    "bytes": 237,
+    "sha256_file": "ebc4ca696fd08f0d8c15dc5482f3cf2357205e9081b6f930813e9acf381c1b0b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_083205(7).txt",
+    "bytes": 235,
+    "sha256_file": "30f8bbacfb478db2b220763ff0db36dede641c3c5fde3e1e6f441c30a2103b6b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_123313(4).txt",
+    "bytes": 248,
+    "sha256_file": "8203f70e615eb6a152db5a6396fe91a81a595de0177dbc2a132193289e2c545c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_123317(8).txt",
+    "bytes": 248,
+    "sha256_file": "104cf9abfcea8f34a9bdd8ed6ebe492112b4b959e8f254405967c1d37726b4bb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_123322(3).txt",
+    "bytes": 226,
+    "sha256_file": "3cfeb7fd8fde40b9c83135f567ead2159c53c71c232dc3d405815073faf77b2c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_123326(6).txt",
+    "bytes": 240,
+    "sha256_file": "bd52bc1ce3562560f338f085fe29eabff0c9561c3bd99b61f73231bc5d892f69"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_123331(2).txt",
+    "bytes": 250,
+    "sha256_file": "dd0b885d747d29ed6ef4449fc4f650794c5c4cc7c765427126d631e714736448"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_123335(6).txt",
+    "bytes": 250,
+    "sha256_file": "ba460c6679150917398f75fc26153623b15004c3b6873a0f16b5a5b35ba6f42e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_162816(3).txt",
+    "bytes": 249,
+    "sha256_file": "b81d3c514b1808879a213623227e7727564e85916ad51fc6ff79017d2bb37aa8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_162821(2).txt",
+    "bytes": 248,
+    "sha256_file": "31daa403e28f790bbaf34eb45f07478440505ca1c18c31637655bfb9e069b9f4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_162831(2).txt",
+    "bytes": 247,
+    "sha256_file": "287cd954a00a87bad5249ae731a2c7795f7717ae3c8004c7177437db0c551c84"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_162835(8).txt",
+    "bytes": 248,
+    "sha256_file": "5c2d68fa4403e6e3b949ce95871275f173a26f9339fbd916c7a3e28d1b6cbb60"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_203149(7).txt",
+    "bytes": 234,
+    "sha256_file": "bb05ce985f0421abed64f43677a07eeff8daff2ea076b7906c34b5f1ccb448e4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_203154(3).txt",
+    "bytes": 237,
+    "sha256_file": "cd10906c6d338a3d735fbc8d6d4564b9ca69d8a9751a18e8a6c058dfecf461af"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_203203(1).txt",
+    "bytes": 248,
+    "sha256_file": "87a2696ebd8e5a90a3b60ee990edeefccbe13123588fb451b4d8b344b4e2d590"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_203207(8).txt",
+    "bytes": 237,
+    "sha256_file": "5b7f85c28ed341ce68325fbbdf79c46702d0a949fb1dc6e4629cf5cc3f89e5e6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_203212(2).txt",
+    "bytes": 248,
+    "sha256_file": "869ba9ea0224ea3a3cb7ab02970e770358a29d956991de3af1f4fa177709ec3d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200624_203225(8).txt",
+    "bytes": 249,
+    "sha256_file": "cbaef0f90b4126bd8f1802c135d68dbef69ddaaae25e014c3b57902500b5af99"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_003507(0).txt",
+    "bytes": 238,
+    "sha256_file": "8f4620e3ccdb7137a25ce23562585ea36277df2f869f9bfd8013947f54740ff5"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_003511(4).txt",
+    "bytes": 238,
+    "sha256_file": "8fbba3bfd2d9f3b0a96f7d748ee0bf5b594be168fbc95f21facbb591ece05daf"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_003515(9).txt",
+    "bytes": 248,
+    "sha256_file": "2172b04468e13f5d49bbc08c62acf37629ef733faabf22a92956a35e9bca7bd3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_003520(4).txt",
+    "bytes": 238,
+    "sha256_file": "82b6c443b33abb5d1080cc568b468a6840cde5bcf680981d757607a0034f8db1"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_003524(9).txt",
+    "bytes": 229,
+    "sha256_file": "37764b78fcfdb6375b7fbd1178960cc64a4ab7a920bc6efe9e6e05d65e1df41a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_003529(2).txt",
+    "bytes": 236,
+    "sha256_file": "63a4aebda5ffbfa38163c2c284076b2492cfe52ac891194d2bb4a58ca9cbedfd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_043323(7).txt",
+    "bytes": 248,
+    "sha256_file": "b05217f20e6325f8b279c7f205a7550af3613a12125c6bd7556126df7aab182e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_043328(3).txt",
+    "bytes": 237,
+    "sha256_file": "2a6d18c8ca1c78799e235ab044bfed480171a2b950a812100a8b2217839b1883"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_043337(3).txt",
+    "bytes": 249,
+    "sha256_file": "9187ba5141cf3fa9716fdb42818758df64eaf3507dd562ecbd345703e44a167a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_043341(7).txt",
+    "bytes": 248,
+    "sha256_file": "e9a40c868ad6a063872ab72db6206bc800768cb285a81d861ddf7330e7a831e7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_043346(2).txt",
+    "bytes": 248,
+    "sha256_file": "a875b7c93a727ff9ad2f4ac9f27db6a69b6a36fc8e31ee39d14e7908576fcaba"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200625_043359(8).txt",
+    "bytes": 240,
+    "sha256_file": "4c15e2bca247af2680cea73944b576860accf8e879f72164ba0f57e9e2dc05e4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_082825(1).txt",
+    "bytes": 247,
+    "sha256_file": "32a1461bd2b3d82623d5cbe169b3b64c2e3cfa4789cdf87bdd715c02816e00f0"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_082828(0).txt",
+    "bytes": 248,
+    "sha256_file": "5f0b1de48c94ad6c6eeb79a81f563a3c6388b9b990225af5102c356f220a94c7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_082831(0).txt",
+    "bytes": 248,
+    "sha256_file": "f46e7b5ce2acc1088c19e8860d92dda6f9bf91b9cb01af2d47d3c478240a9102"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_082834(2).txt",
+    "bytes": 248,
+    "sha256_file": "f7b3fc4de0ffb7ece30d1158cec3eb9a83edabb270c73491855e02d513851368"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_082837(2).txt",
+    "bytes": 237,
+    "sha256_file": "03b19287162c69ed119d3646ab71fdbf793cec3495cef60b85a6c62d35d551cf"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_082840(2).txt",
+    "bytes": 248,
+    "sha256_file": "e1380e17cf00d3808c29a18bbe21e7e763a1d0ee92d42f09f0e1c53e574d2544"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_082905(4).txt",
+    "bytes": 248,
+    "sha256_file": "547dfba46707b2be09e165334a04ffe98507abf58860e303777affe7afc7aadc"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_123107(1).txt",
+    "bytes": 238,
+    "sha256_file": "c30c84eec966a7b7eabac88dce6183c46cc5d8257869568bdb182a098543f382"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_123111(6).txt",
+    "bytes": 248,
+    "sha256_file": "b034de50cb5b2135700dafcab21ea3d11caeb21736f50fe951ac60d2ac875ff9"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_123116(1).txt",
+    "bytes": 240,
+    "sha256_file": "c6af18aa8300a2273c89eba4718a8e1ad136619d60be9614e6bb89cc592a5806"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_123120(6).txt",
+    "bytes": 248,
+    "sha256_file": "48eba56f0911184eda2af97435e16ed8083387fa9df44e215ce3b7aff00e6767"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200629_123125(2).txt",
+    "bytes": 231,
+    "sha256_file": "f1a3766706d211aba08ebb097d7baf5d78827f8bc40102a32f603dc1d63e117a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200727_204954(7).txt",
+    "bytes": 84,
+    "sha256_file": "e7eff7083839c98b26bf98bb799d9a78e223f57a197ee6f5616f718d2b2efcbe"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200727_204958(2).txt",
+    "bytes": 84,
+    "sha256_file": "7c22c83dda144996b84cc981b95aeaa34a4882d70ce5d7b2a4e7848896af828e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200728_014351(3).txt",
+    "bytes": 82,
+    "sha256_file": "9bcc10677f47f4521203cb677e869359cfa09928b642172f2c68d6e9df92c3b8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200728_014355(2).txt",
+    "bytes": 83,
+    "sha256_file": "bb1dab65b582ac83718aabe6a3060632a03b804b4d82b08458a64d637fb944df"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200728_043138(3).txt",
+    "bytes": 82,
+    "sha256_file": "7b6ecebd7e7184fb6278d726d3cad336df8d2f13db63cf4e31f6b6fabd1ac167"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200728_043141(5).txt",
+    "bytes": 83,
+    "sha256_file": "be1cb4398577ce18eb890068bf8241ac01ae4621e69fa5b539fc7d444516076b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200728_083108(2).txt",
+    "bytes": 71,
+    "sha256_file": "6c030cdf9853e221bc65063e2de69405ba0ef0d93dcc88712acdb27d217645ee"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200728_083116(1).txt",
+    "bytes": 84,
+    "sha256_file": "931ff79ba853d9207ce8b3f5cd0d4112b4f01ac5f5091f021423132f9452db35"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200728_123129(2).txt",
+    "bytes": 71,
+    "sha256_file": "70d27b99bdbc326a563c40e157973b20cfe0687b5e647f9afeae4a6f0b1924b9"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200728_123132(4).txt",
+    "bytes": 70,
+    "sha256_file": "058bf9a6200ff85308c0e5d4ea081fca71526dfe8301271bedcd5ad9dd57f848"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200728_163910(5).txt",
+    "bytes": 82,
+    "sha256_file": "ddd4179a85a6605592245fb3dd830fca139a6aa7cb3896509ea13625dc492cb2"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200728_163913(6).txt",
+    "bytes": 82,
+    "sha256_file": "2625178cafa7a12ac3b5e7099fa2f65c5c2773598406085f49fc7e068445d3a8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200810_085043(8).txt",
+    "bytes": 82,
+    "sha256_file": "a654c9d50b03777d99441a0bf11cc1d84ddbdce6aa56f292b728a9950e1df2ba"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200810_123047(8).txt",
+    "bytes": 71,
+    "sha256_file": "43c61aee738698dd8dfa98ca38d8c1ac1f6490bc4b08e42213bf21d240577196"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200810_123051(3).txt",
+    "bytes": 82,
+    "sha256_file": "054c6291c49443e19cec6f7677af7cf267abeaad0fb2cdb3e04a422e5f289db3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200810_163112(8).txt",
+    "bytes": 83,
+    "sha256_file": "a06cdac9a0845120a41b9ce49b4db9a01f7ed46a0d33297c2c2b61f8f9aa31f4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200810_163116(0).txt",
+    "bytes": 84,
+    "sha256_file": "a1eae7998e98eb89cf5bf911ab96040096ce2b0a8f424e72cdcd41b98bc2e0c6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200810_203208(7).txt",
+    "bytes": 63,
+    "sha256_file": "bf17e26606f984f0eb8c16c594b3ad24b25a5aea69fde4c7ba74ae5caba93807"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200810_203212(6).txt",
+    "bytes": 82,
+    "sha256_file": "7b11439d8c3e57af3f53f53c8c36df4d705b576b384a1771b663ef175a059537"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200811_003323(2).txt",
+    "bytes": 83,
+    "sha256_file": "71570a6725f76902a3fc0594c8a10085381fa19480b17805335f8235dbaca7b1"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200811_003327(0).txt",
+    "bytes": 72,
+    "sha256_file": "c3e746735544ce54d24b69c56c12eec914e85a4c0002b24fcd5ca1d7f6fe24a2"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200811_043037(3).txt",
+    "bytes": 83,
+    "sha256_file": "defef782a150cf5242a4b35db0c136ac2757e65fcda3b42ab121fbd5af55bf02"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200811_043041(6).txt",
+    "bytes": 82,
+    "sha256_file": "f582c3afa19ac2d5f9036e873537e39d1ab7c6bcb1bc56ca440386c4865a4324"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_033012(7).txt",
+    "bytes": 84,
+    "sha256_file": "d31a3b5c698dbe275e736d0862f617e7ef28816885fe8e193d77eafbd47a1812"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_033016(6).txt",
+    "bytes": 62,
+    "sha256_file": "b77971e1960a78423d90464e8e952e65ce0d38852e2702fedab06bbc09736bce"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_043321(6).txt",
+    "bytes": 82,
+    "sha256_file": "746eacc25892b16278ee07711fb32f0816534013d40367549da4c22ebcbea40e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_083045(8).txt",
+    "bytes": 83,
+    "sha256_file": "96701b9b2b96bffa811b0c1a320b76de260530354b55651778ac2121e0326bfc"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_083051(9).txt",
+    "bytes": 84,
+    "sha256_file": "ff056ff9753bc4ccf3127b5a3ca519d858987f6d9147418bbcd4bca8a21a729a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_123136(2).txt",
+    "bytes": 83,
+    "sha256_file": "c96a1caa055296533bdfba05146cdbf49026aff13a3f0a9ab088818d5af63d26"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_123143(5).txt",
+    "bytes": 83,
+    "sha256_file": "07b2e31f986f862e485334c9e7059d7607acececd1a470153e0fe3d87d4e034c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_163101(7).txt",
+    "bytes": 72,
+    "sha256_file": "376a48d59221a76f6581c6ebd3760b9d224a5a4da0f45a88bab670c6cca7c6b9"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_163105(1).txt",
+    "bytes": 82,
+    "sha256_file": "9c76f40b49d86d8156ffc762803e0dcdbd134f0595f10258125c5f33a14546b9"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_203438(9).txt",
+    "bytes": 83,
+    "sha256_file": "1da8c6742ab6442f50ba7a37064895aa7b9fb0f8b9b23d63489bb24a07b26045"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200814_203442(4).txt",
+    "bytes": 70,
+    "sha256_file": "cc2b2d600453d310b89229c9367614928a98702c1f9119ef831742d96ca403ba"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200815_003438(6).txt",
+    "bytes": 84,
+    "sha256_file": "c55e999f1bcdab9f5dccacb8f2321cca38a707116db964b82afcde09db825d81"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200815_003529(0).txt",
+    "bytes": 83,
+    "sha256_file": "4ccd824565057357e90edf9a498c8ff4730d043bb4d94202d34bd4bd61585ae0"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200818_083145(2).txt",
+    "bytes": 83,
+    "sha256_file": "725806869f2192ba19353e45e783a3dba1543935e45d51b9aa503d732d63185e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200818_083159(7).txt",
+    "bytes": 83,
+    "sha256_file": "597d8bbc0b5692604f309cd00cfdf3f2569847c3191b40f785cb62ff8d09906e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200818_123634(4).txt",
+    "bytes": 62,
+    "sha256_file": "539f75795012b57d4df855cc386218668f83e1f21597c632ca4200305fb1ac00"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200818_163230(6).txt",
+    "bytes": 71,
+    "sha256_file": "fdd7e0a9b707656513a585c0b89cf97764fda0bbb6e5fc97785a6a5a31b034c7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200818_163233(9).txt",
+    "bytes": 82,
+    "sha256_file": "e9e547536d81e00588c8d237f5621c5e26446fd64ded0877a24b89c96ae96d61"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200818_203601(4).txt",
+    "bytes": 70,
+    "sha256_file": "6a5a06cc4af002f1b6d83963479f5e1ec734df09636eaf1bf445bf8f98a69d55"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200818_203607(4).txt",
+    "bytes": 74,
+    "sha256_file": "397f272e5ca620e985ee1b4a482d94f0ed9e1456458da2739fce7ac477227b07"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200819_003039(4).txt",
+    "bytes": 82,
+    "sha256_file": "fce7b7f6ad7274739b21aad385ba03b8445eca502df9b624877d6a257b3a8e36"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200819_003044(1).txt",
+    "bytes": 70,
+    "sha256_file": "77ed8e35a12f69a1576cd57426d348082d82fd448d0523c586c38d7ba08d55f8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200819_043209(9).txt",
+    "bytes": 83,
+    "sha256_file": "4483611773c3f7b64e91800e64f19dbd5496f545021861d2c653ad958da4c59e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200819_043216(0).txt",
+    "bytes": 82,
+    "sha256_file": "96095c8f974ae4d3788f14bb99121c90452db13987f6afe86b5bba7efad1a04e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200819_083353(5).txt",
+    "bytes": 83,
+    "sha256_file": "f92cd6c218ac945a77e49196e4a89706248fc5b505338d32ffda8d7987181782"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200819_083401(0).txt",
+    "bytes": 83,
+    "sha256_file": "616fe924c9256301664557b8b81ee793130f8da0b5bbf5a2c593c7b2daf5ae4a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200819_124414(0).txt",
+    "bytes": 72,
+    "sha256_file": "41f62573168a16b422ae1c2d9285325eaea08912597f99bbdcf7060900cf7fab"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200819_124415(9).txt",
+    "bytes": 83,
+    "sha256_file": "ec4d5cbd9bf43e7ee4ae56d777da847b443e68d01e1d597f958ea4cc22bae193"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200819_162723(4).txt",
+    "bytes": 71,
+    "sha256_file": "d980a852853dc8da586f623e172ad11cee07d7e160c1c8fd57d3281b598c4316"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200821_150525(5).txt",
+    "bytes": 83,
+    "sha256_file": "ba05f9bed411edb5c665ef8c8ddb43aca91d0da5e0509f57843546c2a43311f7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200821_150529(4).txt",
+    "bytes": 83,
+    "sha256_file": "0c6fbf823ae35f0ae97e7cec3ab05dc81e42869a6eab4da3fac05ac43081f171"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200821_163349(7).txt",
+    "bytes": 83,
+    "sha256_file": "fefb863d8f21b6059a222cdea1e01550a303a4027d882be33a84425e677a2684"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200821_163353(8).txt",
+    "bytes": 83,
+    "sha256_file": "d97f9ee61b4f1853866a4692f325ff287cdf936e587e800637985076fd5aa30c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200826_023328(3).txt",
+    "bytes": 83,
+    "sha256_file": "c7f6ec4c4ae53a14aa23bd437294ab7f2843d29183bc01685112f13e83f6303f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200826_023332(5).txt",
+    "bytes": 84,
+    "sha256_file": "e3ec3ae34c7fa7a375cacd724834b6d818b17fefe19fd4aefa2b19001ae55774"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200826_043252(8).txt",
+    "bytes": 83,
+    "sha256_file": "1c7aceddab50acb6055eafe7bed488dccdc3bbf45dcd649ccfc6b39163df7117"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200826_043255(8).txt",
+    "bytes": 72,
+    "sha256_file": "485bad587dc87e4249e9db03b0a499fab0a7dfddf77701c19e0a8dd8f6a01f96"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200826_123711(3).txt",
+    "bytes": 71,
+    "sha256_file": "5b78b13888514682877becd4d1c39d7e47402dc1387fb1a1159c2a9d57610d47"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200826_123714(5).txt",
+    "bytes": 74,
+    "sha256_file": "3c695c98a38c181ad3469014a7a1da344acf0dd0d78264f262b0e7316b0d5f18"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200831_083711(6).txt",
+    "bytes": 82,
+    "sha256_file": "4c5cf45e3fd99d678324f5b5af5975d77cdfc922da027b26068e447b13e5b85c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200831_083714(8).txt",
+    "bytes": 83,
+    "sha256_file": "a2d9c4a45bd6d4b33403c3be38c2f17539c2e755e3b1092aab005e73056b633c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200831_123316(5).txt",
+    "bytes": 83,
+    "sha256_file": "88533991cf9b376c6dde4a45571c48435156e7fdb8ac4ac99eea13811248c793"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200922_163332(2).txt",
+    "bytes": 72,
+    "sha256_file": "a5b7b1759cf3f4ae8430dd38ddc3df07dc3c9e4f05cdb4aacffaaf96762c14a6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\001_20200922_163335(3).txt",
+    "bytes": 74,
+    "sha256_file": "06bb65a093587f540544b3f347141ea1f0f58a7e4127fd89f803a13918593c26"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203053(2).txt",
+    "bytes": 248,
+    "sha256_file": "dfa57b1c442bfb2cc29c8029c00ed754ec8fd5f951dfb60c7edadf01d482a281"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203057(3).txt",
+    "bytes": 246,
+    "sha256_file": "dd7e03878888cc52eb75f1b1e1284ad1bfa80486338094562ff24791a78d8aa7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203101(3).txt",
+    "bytes": 248,
+    "sha256_file": "10468611c32bd07a8ecd723ff1bce1d097ff8a5abfb9827b4acb88f3ce0a5f57"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203105(4).txt",
+    "bytes": 245,
+    "sha256_file": "366a1b770c92232a81c52cb1b21df340978bfb721e4a1197c79b2de5c226d81a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203109(3).txt",
+    "bytes": 238,
+    "sha256_file": "ffe45f1138f424a56e90a92a86662f52acc8936a5ecfe57248a61318447abed4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203121(4).txt",
+    "bytes": 235,
+    "sha256_file": "8fcf4c2ea6f348b279435ea9a98351cfa954648628d7f245643230090c44b43e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203136(3).txt",
+    "bytes": 241,
+    "sha256_file": "0d1e35737676f3af189e291719a454ffd62240f508a524be2aded26460ce6790"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203140(8).txt",
+    "bytes": 242,
+    "sha256_file": "6ecdd02b7aeaa04bfcad86dc5409fa02b618c721b3b94c66de64bd247dd86a23"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203145(3).txt",
+    "bytes": 246,
+    "sha256_file": "2602aa141c67ee8a7b177e3d7af835f5c8bb077520355c1bb8a3c6c19042e838"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203149(8).txt",
+    "bytes": 243,
+    "sha256_file": "da4e33eaa28704299eaf2f585c146a7b85858071e9895c4657d670ca7e0694e4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203154(3).txt",
+    "bytes": 247,
+    "sha256_file": "477cd742d93abd26545709136c21aaf72a5587714424ae283727ff707499126d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200622_203158(8).txt",
+    "bytes": 244,
+    "sha256_file": "412857668c7077d11ad1647e6c85bfd4a88fe19affd2c872bd76519ebf02f4fe"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003346(4).txt",
+    "bytes": 234,
+    "sha256_file": "c71872b1a528c8e459a193a3dc0977489834edbeec1488f41639a0ca3c69fb00"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003350(4).txt",
+    "bytes": 236,
+    "sha256_file": "45b81224e8cc94799b78c05de3c0845654ac04659499014b82272d37a75e5f70"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003351(2).txt",
+    "bytes": 243,
+    "sha256_file": "6c6843978ad5c136de42c34c0c910f2fa9d0e79780dccfaf0e7690741485ccf6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003354(3).txt",
+    "bytes": 245,
+    "sha256_file": "042e4849632882af50a51f2bd7cc052051d53a8fe975002a2a14c188a767bd31"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003355(7).txt",
+    "bytes": 244,
+    "sha256_file": "8a732f8fbc7d8cef6215abed7a212ee46d9eca0df8e26ed84fe0e49d153a6086"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003358(2).txt",
+    "bytes": 238,
+    "sha256_file": "3e823fb79abc6964d33cb87b1abcc664dfe5ffde9ce26abdd0a3eb8f0a512f74"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003400(2).txt",
+    "bytes": 230,
+    "sha256_file": "42d426bc67d3bfdea938a110dec161ba8df796cc6c0b9e0e86592a4c7fc22346"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003402(2).txt",
+    "bytes": 245,
+    "sha256_file": "3e23961c7ff0ead03b70bd7163c490444e22a1a12fab66429e7b6f5263fa10b0"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003404(7).txt",
+    "bytes": 231,
+    "sha256_file": "60563613452aefe584bf5577352ed2d54f8d7e952456b0c1a314fd6b946c0bcb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003409(2).txt",
+    "bytes": 249,
+    "sha256_file": "a2328e6607495058c5b0ec92ab7eabe8da5f4b153bc3a796ffd4ccb47b963eb3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003410(2).txt",
+    "bytes": 247,
+    "sha256_file": "6f335351784448ed5a5a830fc988923966113ed3c09559cc3049f6e27a540721"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_003413(7).txt",
+    "bytes": 246,
+    "sha256_file": "0f0a795f1809b68acf8662f32419537cd11df931381d39e5d50aa857fde0136d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043039(3).txt",
+    "bytes": 234,
+    "sha256_file": "ee0cbc91bfa22cf19ecd4d65a63ed7cca3bb6d7e960b4b5ddb9d484fda16b3cd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043043(2).txt",
+    "bytes": 249,
+    "sha256_file": "7a063c830ac85ae92bb86a549f301b07f0038d4eaab1a9df324e521f01ced153"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043047(2).txt",
+    "bytes": 238,
+    "sha256_file": "e49326cf79376370d0e098d81014f5aec679a2ede718fe36b84d528aed2fd2bd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043051(3).txt",
+    "bytes": 245,
+    "sha256_file": "91044535cbfb30c27c0cab10afd0c50b19d5db1492aa342601c781a1cf31a119"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043055(3).txt",
+    "bytes": 247,
+    "sha256_file": "ad37d273416df3e82ccb7ef2a90a883acfcf77662e57417b4fb2a1efb1c2ab3e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043056(0).txt",
+    "bytes": 242,
+    "sha256_file": "3709c27deeeb0714e7fe58f68b3a6707f8a2aeb0a7b7ae830f9bdddbf5b1c3df"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043059(4).txt",
+    "bytes": 234,
+    "sha256_file": "e487d6bd5afa58b9f392c92dc98b51fb3ab285f2bcdbdabc9b789951675947da"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043100(6).txt",
+    "bytes": 244,
+    "sha256_file": "dbf6029d84c4147bf8325989c173226d4490799ab10f0a9e8f9c7c4012338f31"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043105(0).txt",
+    "bytes": 243,
+    "sha256_file": "2b4459c370c599a5d662f8ead56ae7685aa7b4062207f605d9553465600a433c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043109(4).txt",
+    "bytes": 242,
+    "sha256_file": "de4d10e05b7799654590567181794c4b7cfee3f8b4643819105961dd9843ca1d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043115(4).txt",
+    "bytes": 246,
+    "sha256_file": "406f7b9b582b3bb57e0a8495dcffcf638d825195b8dd5f5e43dc2e3381cca76a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_043120(0).txt",
+    "bytes": 243,
+    "sha256_file": "e0701a8245f87b7f731372442e5e58e6c8b446ac747cbd272dcb57b8b4c55499"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082249(3).txt",
+    "bytes": 244,
+    "sha256_file": "e924918e3e54d2656083bdaa22928d74ce22332e4b7ff4c325978c62ec4c4e96"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082253(8).txt",
+    "bytes": 242,
+    "sha256_file": "4614cbccebab8d3d5cf3d6ee02dedab2bb768a76ac2235ad796a75d399f48aaa"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082258(4).txt",
+    "bytes": 243,
+    "sha256_file": "db8376309bb68d43a279c1ea98975ab49d305218faea893191cb884a805135a1"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082258(6).txt",
+    "bytes": 237,
+    "sha256_file": "447f6a3ff1283edb6f3d60de8096f9be29c57829844a7cfb061a0b46381be302"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082302(6).txt",
+    "bytes": 236,
+    "sha256_file": "97643ee9bafc9944d6ebc8c249f6ea4b8c501823ae5145c96150993bfad803a7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082302(7).txt",
+    "bytes": 245,
+    "sha256_file": "f83c307e9abaa71c0f3950e07c87b2b91964be9626f3e7bd6ff42ceb8b0c1685"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082306(5).txt",
+    "bytes": 232,
+    "sha256_file": "1b2146839ceb09f584cfaa10c01520d435ac0e751e3ab37742a2795bbd5d250f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082307(2).txt",
+    "bytes": 228,
+    "sha256_file": "f6131d4e6e84158cd39aeaf51777191a6234afde2a32ea4e874556fc728ddae4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082310(6).txt",
+    "bytes": 235,
+    "sha256_file": "56ee349a37923434648e52d7675380bc4a04340886b37af48116ce1eda050e3c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082311(8).txt",
+    "bytes": 244,
+    "sha256_file": "3990deb2b1ff98079d58dffe79c8c56f56e2354f0b407c55b9d81b0ac08cf9ff"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082314(4).txt",
+    "bytes": 236,
+    "sha256_file": "55009425b487e517821063e62f11f5380010965bc292359b39dca9070a3ebacb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_082318(5).txt",
+    "bytes": 233,
+    "sha256_file": "5e36784a3c89e4ad9ce7e02f08d7f39fa21a436b7aa44a100e9a4ecd0d7cc695"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123032(7).txt",
+    "bytes": 247,
+    "sha256_file": "35bea16881d8b6d91abfeb93eefda2458cc987b043ce6d511337dba1b2484fc3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123036(5).txt",
+    "bytes": 234,
+    "sha256_file": "802b160aa16638a5c5ee3613a30d25249fa456a06ba9b163dd7ebe06dee89abc"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123040(5).txt",
+    "bytes": 246,
+    "sha256_file": "05718c7b1be18b7872374696bb4efc864cf20658bf1cc3bbb3a877114c07539d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123042(0).txt",
+    "bytes": 242,
+    "sha256_file": "edcb4fca69a38185f6e22f1bcc776e10119e7c1fb991159df31013b1371a5b8a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123044(3).txt",
+    "bytes": 234,
+    "sha256_file": "bfd41d7bda741a79d8d891c40cbecd917f496d8056503414f4da7c16000cb67a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123046(4).txt",
+    "bytes": 246,
+    "sha256_file": "f7031ee5607f9c4003524cdded324fa5b90b1eab6b4e124a5030c33819c067b1"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123048(4).txt",
+    "bytes": 245,
+    "sha256_file": "4d032b06d46432a5a1a1f4fe343c46a0e630d931623a2b39f633adfc0b062cfd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123051(1).txt",
+    "bytes": 242,
+    "sha256_file": "fae039fbb4e21f9c5e13597a449a9989a267ebf91045c4129ce49ab9a54ce18d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123052(5).txt",
+    "bytes": 247,
+    "sha256_file": "363bbe26265f3c4680a32e748870bda00a5091e0520bc3a401b90d812512f785"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123055(5).txt",
+    "bytes": 164,
+    "sha256_file": "7f53f3f8cedcdaf377beed42f5569ae90bfb65d603b9560e70f11fa2955224c8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123100(0).txt",
+    "bytes": 247,
+    "sha256_file": "1fef9db53e116f7b5f300f1a476e862692ef26d05f74c70eb7f5520b437544ec"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_123104(5).txt",
+    "bytes": 246,
+    "sha256_file": "af516c084bd5c14e8f9ea73a290c8cf4a42c087d2a93c9e95a363eb02dba7bb1"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163020(3).txt",
+    "bytes": 247,
+    "sha256_file": "c0d7b4269c729d172bcbc095295a622257b56385f89cf32b53a3af020190f757"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163023(3).txt",
+    "bytes": 241,
+    "sha256_file": "8dbfc6c2ee592cab69833f02bb1d073c49643261a827a1a3a2db09dc2167e6ba"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163026(3).txt",
+    "bytes": 243,
+    "sha256_file": "77d3d6921aac82c84ba51c84316e95bcef7f9411c8a03ed597e94d6c0e007393"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163029(6).txt",
+    "bytes": 244,
+    "sha256_file": "a28146c1990bbea1d5e195e1de43e4f3ebfb100180cf42a3744d954a6213d68d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163032(5).txt",
+    "bytes": 248,
+    "sha256_file": "01cc823fbc1c2db18702bad69d843a502191fec4fbeab6956810a8d521d36e2f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163035(5).txt",
+    "bytes": 245,
+    "sha256_file": "4750fd1fcefd85d15c57c04b75c79ef4b5b37c5f3b7a91641ba26f889e370bd6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163039(5).txt",
+    "bytes": 247,
+    "sha256_file": "52050e934d0689ce4ded1e6a0f6f301b563467d0a9d0cdc5c0528c0f6d67718d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163043(7).txt",
+    "bytes": 246,
+    "sha256_file": "0b082a3f0feb4dfb6c4346c6be7fb4324188ac788c250925f59cf6ec6bb0d2a8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163047(6).txt",
+    "bytes": 247,
+    "sha256_file": "1bd6dfff321ed0d772121ab77b500653e19364786e8764690a66e05f4c348e50"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163051(7).txt",
+    "bytes": 239,
+    "sha256_file": "83a3387075842b6062b64e03a66e440a6eea88666354c9563c1ad81feb66da6e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163055(6).txt",
+    "bytes": 250,
+    "sha256_file": "86572226b74e33514b261433a81c9aeb7943a644ff3bf8fd333ae0aab74f0d5b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_163059(6).txt",
+    "bytes": 249,
+    "sha256_file": "ec77b8cccdad72cfe3ca5bfbbb74f9677d3b400e334086613200714d926c4b42"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203033(6).txt",
+    "bytes": 245,
+    "sha256_file": "1ff694b7c312840925a36eb45ad46cfde9f0a9104a0558376fe99268dab5dc97"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203038(0).txt",
+    "bytes": 246,
+    "sha256_file": "b663c0efaf68495b91c41d39929e008161e78e8d094b6f99cfa73fc4a358153f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203040(4).txt",
+    "bytes": 247,
+    "sha256_file": "5d1b301b2f16e5c1ede5e104baeaf249b73b42bf5de98b7cd7b4f3489f23df5e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203042(5).txt",
+    "bytes": 229,
+    "sha256_file": "1c8a388eaa3ad7ba19f647ac174c18de7bcb0ec325793dbb529a2b480c959b2b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203044(0).txt",
+    "bytes": 246,
+    "sha256_file": "be4b6bd90264839c8206bd310b52ddbb31a075b532f64d2c96c627d498803871"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203047(0).txt",
+    "bytes": 247,
+    "sha256_file": "4dd8cdd780d9cbb1d96e872fa2d177fa23fca7a04fe0b4013be801153ba34662"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203047(7).txt",
+    "bytes": 245,
+    "sha256_file": "4e28e299e358d612fe7f27a9bcc3de312d1777a2f731adf2d8f623604dc4de61"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203050(0).txt",
+    "bytes": 247,
+    "sha256_file": "563c37d72a834ff2a732549cc99a584f422c6e80fb9195ef803a8c010f238f7b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203051(2).txt",
+    "bytes": 233,
+    "sha256_file": "3dec3d7cc1a965f679fd0b907e3c56fa2c73ce6be7e5d80ae5c3deecbd3021f2"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203054(6).txt",
+    "bytes": 246,
+    "sha256_file": "faa15d2c0d7b4ee833c51a005390e402ee6f5a0990669347db14152fbc375bdd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203054(7).txt",
+    "bytes": 245,
+    "sha256_file": "a24b51bf7c96a6c8e04f8bd6a3f8aa9089a35f767176d8fe706f07836d70fac8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200623_203058(3).txt",
+    "bytes": 247,
+    "sha256_file": "2328a00220c9f07ec1b9a56c4fc7e785149625714c5026a292d6a05fe0fceebe"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003107(0).txt",
+    "bytes": 246,
+    "sha256_file": "7ba0f4356f904be854ba1931065d50437b79cec9d9a5d52c71fc69fe240051c8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003111(0).txt",
+    "bytes": 246,
+    "sha256_file": "17a4804b030a054e53bff701a502c2ca3cac73a98878bdef6c3cf2320aa33341"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003115(1).txt",
+    "bytes": 237,
+    "sha256_file": "df1abe9886402519714671e4328f085b50948bb71298622a2b06dc3e8d865440"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003115(6).txt",
+    "bytes": 243,
+    "sha256_file": "bcf13bb10b74623e2c84b4b79868edefcb993982f05e1024f98680b8fbaba7d4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003118(6).txt",
+    "bytes": 243,
+    "sha256_file": "0ddfd3e7ed5b3602a1d411918e3396a1c6f1f1ac2a38b1f6176d2b5ed2aebd0f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003119(1).txt",
+    "bytes": 248,
+    "sha256_file": "aca917657af30d5670d722e43b00cc7176db129d9e4014590eef51894c26535a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003123(0).txt",
+    "bytes": 245,
+    "sha256_file": "4f28b36cbac8dbbbc9c39ef3745e64facf5b1f9f79a35901638923abc6651ebe"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003123(1).txt",
+    "bytes": 234,
+    "sha256_file": "7ba967b75b655f78d1a206a05cfde4f946b32e73b74b569f158d8ccbb1887b33"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003127(0).txt",
+    "bytes": 248,
+    "sha256_file": "e352327ab022bd4b0c88506f74c7cf409e2ed05558fb76493144f898f0acf1d9"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003127(5).txt",
+    "bytes": 244,
+    "sha256_file": "4d60d4b9686e6b4b9d6ca2ab85e7c74efca7568b705a84465cf9c0ef98cd3f1b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003132(0).txt",
+    "bytes": 245,
+    "sha256_file": "b135dc069556fab784e6c87b2a3f3370f1adaf06e263325dfe15b80169145554"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_003136(5).txt",
+    "bytes": 248,
+    "sha256_file": "51c6ed4bf022dafac28028d29f4dbd282849da28abc7176dbec90b301195aa21"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043128(1).txt",
+    "bytes": 225,
+    "sha256_file": "d2aedd3dd153576541f85cf27cb96554a0bf0f554b053fdd28b2ae40297c5467"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043132(2).txt",
+    "bytes": 248,
+    "sha256_file": "784040cf50e6c55d4d393fb329ca0a4a30bf6babe3719d07e069212a5b560d7e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043136(1).txt",
+    "bytes": 246,
+    "sha256_file": "98e2719fc6bb5e09a6b2b61165558c9a3c086040dc7bff1882eadfbf9c77336a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043136(9).txt",
+    "bytes": 240,
+    "sha256_file": "2dba227f4fdac4043e6efc902db12c3b193053aaf5adb0b56697f1bf1904fad5"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043140(2).txt",
+    "bytes": 244,
+    "sha256_file": "2e7252009161d01928d045f6e0cd97225180c94c36636b8f780e514657a56409"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043141(4).txt",
+    "bytes": 242,
+    "sha256_file": "2df121743623d538234ce78e92cbfc0eddf57d447fc4f996f745baac0680731d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043144(2).txt",
+    "bytes": 232,
+    "sha256_file": "acbb6f40e7743a72d0306eec270822d92ff1456f08abaeb133a4dcb8bf9c3bde"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043145(8).txt",
+    "bytes": 243,
+    "sha256_file": "104f51288f27164e53f5f8377b6cb1361248c4fe033f39dca7822307d45f26da"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043148(1).txt",
+    "bytes": 236,
+    "sha256_file": "dfceab5e68e447a08c1d9ed6a55ec471822642ef76a9cf3b3ab4760496d82d0c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043150(3).txt",
+    "bytes": 226,
+    "sha256_file": "cf18c6657c78ea231727b3379301742167211ad249599cb1e1dd24356b803970"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043154(8).txt",
+    "bytes": 229,
+    "sha256_file": "39652cba7b713cc6e0856c4d3ebb1976e0a0ec15753494dd666de48b0c0d20ea"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_043159(4).txt",
+    "bytes": 246,
+    "sha256_file": "d86d2d60e899cca7162710af39e71efee58c498abfd4557a36e6856e0b392634"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083032(4).txt",
+    "bytes": 244,
+    "sha256_file": "314d2d3ce674741f53382500da366c403176378e80076dc1a56d15cc61a99b82"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083036(9).txt",
+    "bytes": 243,
+    "sha256_file": "54c277176a40aea2dbe781fa5e7a1c449240e05fcbdb8a6d78d235a98a512315"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083041(3).txt",
+    "bytes": 246,
+    "sha256_file": "9a7f102707cf3c6f94a90d18edddf5161b151b7307d942b0e9843cd6c8b34555"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083045(5).txt",
+    "bytes": 248,
+    "sha256_file": "56c6160350fbab0de6c1cc66361cbb2127bfe55e05895ccc0a84071d884281d4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083045(8).txt",
+    "bytes": 243,
+    "sha256_file": "2cf171fc29c60bf8923c87c16e6b0e4fa43702f4900fc84015c5f3d51878e890"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083049(6).txt",
+    "bytes": 236,
+    "sha256_file": "724bef20866e019b64eb04bc74243508066c49a969db8bc9c82f286af172a62d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083050(4).txt",
+    "bytes": 235,
+    "sha256_file": "96405a5b9de0033c029751aa74ef7d8543decaa520722af569cbca178f350a77"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083053(3).txt",
+    "bytes": 246,
+    "sha256_file": "0bca33573aba21e0248270101b03227fda46ec7489693e8924947cfce2bed58b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083054(9).txt",
+    "bytes": 247,
+    "sha256_file": "989a3f2616ca710b4297707870026bcc79ff8f81fe06d960e44c7a0b80148263"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083057(4).txt",
+    "bytes": 249,
+    "sha256_file": "1670fd3f879b54e887195ed29b1a6ffa334261ca409e7aad7ef0029f97e64f3c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083101(4).txt",
+    "bytes": 233,
+    "sha256_file": "051608829d1f9d3c144807b0228efd3d929f868d01cda00c56774c847e875dad"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_083105(5).txt",
+    "bytes": 235,
+    "sha256_file": "8b5fd3a3506273698b4e0a38de393261e34ddf18f3376f8ba40aa94af7919abf"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123122(6).txt",
+    "bytes": 233,
+    "sha256_file": "2357b0bffe2905744437cd89bf2df101c225c0294c2e6a131a8ff1d8d94b1ae3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123126(4).txt",
+    "bytes": 248,
+    "sha256_file": "ecfbf7418685d8b0f2139078ef950c0d88be2fe95c53c637ec3068edd9948451"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123129(9).txt",
+    "bytes": 237,
+    "sha256_file": "dc5700ddab6d2211d008cd3432647d1fa788c89cd7a21bb242bf5549ca5be2b3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123133(0).txt",
+    "bytes": 248,
+    "sha256_file": "c39b18a9a771837240b74c2e21ca0984bebfd384d775829ab65f77ee3bc445b4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123136(5).txt",
+    "bytes": 245,
+    "sha256_file": "3160fb91c8130000e54b87deda210a4f9f3328dc397b4328f3dc5e14e8df5868"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123143(7).txt",
+    "bytes": 234,
+    "sha256_file": "3694b0a66fa9d4eabfa98326d89f589a2842856fd6ab91c8a1e4ed5dca6ba62f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123144(0).txt",
+    "bytes": 244,
+    "sha256_file": "8f08392415e6a31656a12aed2c44610a2e240fe2859d9be4bca8b66fb1cf0361"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123148(2).txt",
+    "bytes": 229,
+    "sha256_file": "4090f6286489d73e950680719576120726d2d0b597ebbfed2343d5671f0f8df6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123152(7).txt",
+    "bytes": 232,
+    "sha256_file": "64db2be84933b3feb02fd6baf88578f59c2723e377774dd8428c99633440c854"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123157(4).txt",
+    "bytes": 246,
+    "sha256_file": "8411122ad288b9a31442f239bd9f39c6acffc590e2eb2030963d48104a7699a3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123201(7).txt",
+    "bytes": 242,
+    "sha256_file": "494444ac92086ecdf0eac2fcce4b33b43c3ffee089429d2d1be18a5aa4554df0"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_123206(2).txt",
+    "bytes": 246,
+    "sha256_file": "841ffa6c6ec05aa6d53813d761bd5ca6d7ac1fa268ac2f3e88ec7588580b84fe"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_162522(0).txt",
+    "bytes": 246,
+    "sha256_file": "d13fa494771c837fa9b2db72a6ad8804d2a1dea4858d2fbe14070d3b3fe5f6ca"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_162527(8).txt",
+    "bytes": 246,
+    "sha256_file": "75769ce4ca5932d431d1227b2647f3ce16971a1f0c8c76d5f1c5849cd48bde1a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_162531(7).txt",
+    "bytes": 236,
+    "sha256_file": "2ba97e62fbdc003b9aa404aae4c0f5e92ee866d6fa9964574d4550bdc6883003"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_162536(8).txt",
+    "bytes": 248,
+    "sha256_file": "77cdf412d283996dd69f6a854ea816218771a98bec6bf900dcfd405343603fa2"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_162540(3).txt",
+    "bytes": 232,
+    "sha256_file": "9b679f5f7da181a8f8278da82220c72c027b4dbcbf73d94c4923c3e62053bf6a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_162543(7).txt",
+    "bytes": 221,
+    "sha256_file": "79b2ffcafff46b1220cd854f8ccdbc47b34e333f074af8c46193ef34bc3bb783"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_162708(9).txt",
+    "bytes": 243,
+    "sha256_file": "2c4db4e454c1e896ab4bb6deeb8776491865f90aec6c316c91552a29130b94c9"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_162713(4).txt",
+    "bytes": 245,
+    "sha256_file": "930dd34ad02bfba5ae34c254289de56508bfe24fd2a5d6afc4e7b018a8aec758"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_162717(9).txt",
+    "bytes": 246,
+    "sha256_file": "9b78f6ce09639f69b982d825a11ddbcf43079a73d7abee61c436ca30d0ac6ba6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_162722(4).txt",
+    "bytes": 244,
+    "sha256_file": "319220ef3eb7ed9e9a08d9dcb40356511aeef7d5c5cc80c02c56ab77366f775a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203003(9).txt",
+    "bytes": 247,
+    "sha256_file": "b9c1722a5e006e15ba4fab221d0463d408a01444e942f024e41360194215242f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203012(9).txt",
+    "bytes": 223,
+    "sha256_file": "8e9d62fe62eae484ed03622dd2b2a973a5221de378390f8ea632aeabfabcb394"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203017(4).txt",
+    "bytes": 234,
+    "sha256_file": "5d4614185a17d0c47e7aeaf44c12efe32d5f85cc5e06ce4746ee0d528261c293"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203021(9).txt",
+    "bytes": 248,
+    "sha256_file": "b15f68d198c85c31c027462512e5a1c3144661a2cc260dd95ce71fefdc4fefe5"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203026(4).txt",
+    "bytes": 248,
+    "sha256_file": "88c327ab4a18f3e92a01dd9c0f0e0aa51a64c13538a4eb9e2f95e96ce80a4ef8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203044(4).txt",
+    "bytes": 243,
+    "sha256_file": "21b8427d86c991bb84e7ecdd433233d7ac0fcee8e9bd790b2c20922dcd491a63"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203111(4).txt",
+    "bytes": 241,
+    "sha256_file": "223f1f4d2a8c539289812456b9c51900a450207189c405941dac14c002791397"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203114(3).txt",
+    "bytes": 247,
+    "sha256_file": "3b8417f51c9a0c3b43f7a6d635b5bec98c1d6697e53d5ef07cd5c8841b2e80f3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203117(3).txt",
+    "bytes": 245,
+    "sha256_file": "8dd4380e8faf40f6712bd7da8fa5eea74156dbe50e8e1ca5b7bfefcd6b198af8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203120(3).txt",
+    "bytes": 243,
+    "sha256_file": "8517146b549629d0fc9056846802ce6259bd29c397880973d7e15cfef1b670ff"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203123(3).txt",
+    "bytes": 243,
+    "sha256_file": "38d897cab48f8d5dd82edca39418868e519a00f9b13c4e2e2f91cbaeffb23f1e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200624_203126(3).txt",
+    "bytes": 243,
+    "sha256_file": "f813c3b3dcac6cd457bc3f950a9631e7d75cc3865d61ce3cd0ee76d94edeba9e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003116(4).txt",
+    "bytes": 233,
+    "sha256_file": "f5545e265266e87efc4de2081e3952e7209f39b88ffb3a069a33aec62346bc85"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003120(7).txt",
+    "bytes": 232,
+    "sha256_file": "61c9ee7fa475b9f9aa61c1278c8e49b4666cf87fe61600051309df20ace5535e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003125(4).txt",
+    "bytes": 249,
+    "sha256_file": "9f5e4e4f9e894c60ac7136dbc70fbda39d5634ada569c29d3927d9724ed72504"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003130(0).txt",
+    "bytes": 235,
+    "sha256_file": "599dc88a16968639f9fec8b2a7823af87785f615e62c3958eb5d488e2e86f698"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003134(4).txt",
+    "bytes": 246,
+    "sha256_file": "16a408e7655bfd8a20e76431e569dffc08f14a9dd1adf2ea9a592a2ce44a82b6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003139(0).txt",
+    "bytes": 224,
+    "sha256_file": "a451c62da53ec7467615db3df805fef80390cf17b8715bf9300f74a8e4c64cfa"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003352(9).txt",
+    "bytes": 245,
+    "sha256_file": "e4a1fc43a218fd6f22b22d61053bb8ff82a06bb9472ff86f8afe7dd0430a5aa0"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003357(4).txt",
+    "bytes": 245,
+    "sha256_file": "476afcd17342b91643de2e26fbfb981de65477a9591b9b0cdc66776064d5d0f3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003401(8).txt",
+    "bytes": 243,
+    "sha256_file": "dda6d1946cf8419604fa8c3b7a491dd3d223138c933f709539af5eeed56e706e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003406(3).txt",
+    "bytes": 244,
+    "sha256_file": "11b5548c0b5199c3e38c31f89680973cd952a257c40c55f160cb26c243d602cb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003410(8).txt",
+    "bytes": 244,
+    "sha256_file": "a94f82448e2dd83cc46ce22429f05de70f752da945ad8220e69347311074a7e6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_003415(4).txt",
+    "bytes": 244,
+    "sha256_file": "eddacb57aeadaf1a3c7d5bba5f807685716fa8e96ce52edb47603e776daeec98"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_042934(9).txt",
+    "bytes": 236,
+    "sha256_file": "c1bc0d8fcdf559cc500663402cc66238c34a71f2f13cac2c46b41d8901029126"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_042939(2).txt",
+    "bytes": 225,
+    "sha256_file": "63ab501582af73084f43398da210db6708101710914d9c9a4122f68ed21c94d8"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_042943(7).txt",
+    "bytes": 235,
+    "sha256_file": "0c8f7ec7d1e6a808071ecddaa72a21a8314cc4a15e3397076784a19a84029497"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_042948(3).txt",
+    "bytes": 236,
+    "sha256_file": "a741802092c5cb4691f1af5657fcd1519d332fb1f948edf933603bf47533b6bb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_042952(8).txt",
+    "bytes": 233,
+    "sha256_file": "e314af58f58d9600f85ad955046f24d8730e8920ee8b5ea4d48e1950b104cd24"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200625_042957(3).txt",
+    "bytes": 235,
+    "sha256_file": "73dee2fe0ae2e577e7ba5e970beca254c79420c731077e827181c5af244c415d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_082630(7).txt",
+    "bytes": 233,
+    "sha256_file": "9a9c82a27f3bdc07cb5c0250e0b1322c449aab085af71248c2d9504659f71b48"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_082639(2).txt",
+    "bytes": 221,
+    "sha256_file": "45290d7840acd1809c75b057ceb29ba96882a42cf3df03e86685f84faa5d9601"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_082642(2).txt",
+    "bytes": 236,
+    "sha256_file": "ecb6058bfda6a65e045a7703a3aaef6e13828a5c9654da2c7913979dd88f3d1d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_082645(4).txt",
+    "bytes": 235,
+    "sha256_file": "9cc8419ed3e145ef92c88b26ef11eab9376b4ebf802c464832db0b648a40febd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_082823(5).txt",
+    "bytes": 246,
+    "sha256_file": "41ccd187f1d874b9b5af0dc06fb72fed63f29f06003d9dde92d0fc93d4a33deb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_082828(5).txt",
+    "bytes": 247,
+    "sha256_file": "2e6f20c7104a659d48f359a24a0b2424bf36f9d80a24dd5a891ecd7dc6548b40"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_082831(3).txt",
+    "bytes": 244,
+    "sha256_file": "9372e780eef3c279eacc0be50f3f599bdd6169b3062491bd536c786a7f36c7e5"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_082834(2).txt",
+    "bytes": 245,
+    "sha256_file": "8435d2fd3b0f1714bea042dafb2d26183af8eda6b156048d2867e0119f47063f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_082837(0).txt",
+    "bytes": 233,
+    "sha256_file": "8d2e77bdefc73c1836dfdf9b90bd0039e1dc413c74c4458d75d4be81a489e56d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_082839(9).txt",
+    "bytes": 229,
+    "sha256_file": "ef7f78fcfd11337a3704010d3b6abf46fb88fbeae4a1e6ab3b9e393e6200d62c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_123442(5).txt",
+    "bytes": 245,
+    "sha256_file": "ad0bee90d4b52e5d5cdcc3bb3cced4ed29585a0fedf7e75bbf17ec707a1df4d3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_123447(0).txt",
+    "bytes": 247,
+    "sha256_file": "c79d8b977c4128d4498f2f1c9ebfabc4bcb44515cb06c62ae8df183b6d1a2bf7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_123451(5).txt",
+    "bytes": 247,
+    "sha256_file": "da6df873fbf349db7c21fa7efd16fbcf4d1bb944eee40e304b9b9743c29d25ce"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_123456(0).txt",
+    "bytes": 249,
+    "sha256_file": "9b9ac62a783d13e74e35a3609f415562489d0d35462ea023cbdfbb89f8dd65a2"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_123500(5).txt",
+    "bytes": 244,
+    "sha256_file": "baf3740a49a8b8d3074778cb3a420225e3aa2d5a51e1933df77af216926fe976"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_123505(0).txt",
+    "bytes": 250,
+    "sha256_file": "92070ebe9770cf728e122ca9af82f9bad9fd2943d04d8356fc39ddef9c03d074"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_163656(7).txt",
+    "bytes": 243,
+    "sha256_file": "7ee1e39c52bde5a9a12a93adece333e2c3425727333c133c264b136e8ff7e804"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_163659(7).txt",
+    "bytes": 230,
+    "sha256_file": "93fd947fd00c8f6747051aee29d6f506e35e6aeec5e9419d6d92fa2e132da050"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_163702(8).txt",
+    "bytes": 247,
+    "sha256_file": "4e9725e0dc25ad200a5958836fe543c2c44d90ed25cd2ef66a5e3e147083cdf5"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_163705(8).txt",
+    "bytes": 245,
+    "sha256_file": "51d5f5d1a98c7c80cee1c97b7b474ac09672f115be4d5350069db69fe3238fba"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_163708(9).txt",
+    "bytes": 247,
+    "sha256_file": "72b52867c537de88d7666fc857d2e4b07bc9cbe489500789a0f39920cae70ed0"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200629_163711(8).txt",
+    "bytes": 247,
+    "sha256_file": "c502157c86855ff96304b105d9ab7fc080a874ad41104964ddc934007bfa3b37"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_042641(8).txt",
+    "bytes": 247,
+    "sha256_file": "82820d6dcf63d6186abb06437a5afb77f6def4d7f1d19d0f8776e304226d3ce3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_083054(2).txt",
+    "bytes": 247,
+    "sha256_file": "1051548415a3b01745c8992f423d9bc5002972bb926112a39e7c02d89be6349c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_083057(5).txt",
+    "bytes": 247,
+    "sha256_file": "925d54b5ffb96d350e3120063c5615c32b7bf13bcf1bf751cb7de2f0149846bb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_083101(7).txt",
+    "bytes": 245,
+    "sha256_file": "e87b144987477a8115d7b7b280f14055b5a1759ca6925ac7a2344d56bcdb63bd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_083106(2).txt",
+    "bytes": 234,
+    "sha256_file": "2917f59e2acd47dbad1c3fc8dc47c1a2dfd01bf5a1e3b06a66d5eafcaf6915a4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_083110(8).txt",
+    "bytes": 247,
+    "sha256_file": "a8c4f726c681a2e9dd8e49711d2b858a1232ad5785f5897cec904dbc632f5386"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_083115(1).txt",
+    "bytes": 247,
+    "sha256_file": "ae66ed2bd8ed41b4cef8cf5804ee1c206ebf2d0bd4b17fbc9eb852cd00bf2c5d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_123109(8).txt",
+    "bytes": 245,
+    "sha256_file": "4fbaddcaccdfe7f283ebfff460ab6563685a2e2dc64742a83e42860ea8d27f1f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_123113(1).txt",
+    "bytes": 236,
+    "sha256_file": "c0468ce6abb04193724dbad279a672c9431943d0525b8174d6d2d63ea95fbdc7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_123117(3).txt",
+    "bytes": 248,
+    "sha256_file": "2aa9a1e2a8dadb6a724d5691f2eda2662b573b7997f1a4d435c893a292c556d5"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_123120(4).txt",
+    "bytes": 247,
+    "sha256_file": "18b3c9d09debfee744bc84b22ee2afbc8c12f715c019989a1b33886bcdc0620b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_123123(5).txt",
+    "bytes": 235,
+    "sha256_file": "1c944048ee6fc7556a32f6c9227b8f7abadcac1628cb64cd8b0a56a48dfb89fd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_123126(4).txt",
+    "bytes": 232,
+    "sha256_file": "344f1201e23bdc02d4d9a783a22178dc52815e9858198fe8eeb5df3ce316c9d7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_163046(2).txt",
+    "bytes": 237,
+    "sha256_file": "409d1f9fe3286b6357ead34cf4be8e52b8bf979b628bdcd12c75edad515dcdeb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_163049(8).txt",
+    "bytes": 247,
+    "sha256_file": "1d808d628d6b79b2b7315e94c5cbcd0fe5dd16ae0532b8f6fb1aeae49bf44d7a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_163053(5).txt",
+    "bytes": 247,
+    "sha256_file": "781cca16136e747bfc0a0e064928aae4c0c11d5598da16aed8378bd6acea8b30"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_163056(8).txt",
+    "bytes": 225,
+    "sha256_file": "a29d6cf39498c368ecb99e1fb98356c6714948132fe8269df7529830e662ddf3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_163100(2).txt",
+    "bytes": 246,
+    "sha256_file": "28a6e68dea3917e732cdf96d9fbdb31c714b9617f29e5a982fada035715c3a13"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_163103(5).txt",
+    "bytes": 246,
+    "sha256_file": "8f5fe50f7ba869bb7310575956a8c34da392c1829b162979dd3277fe39709bdb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_225756(0).txt",
+    "bytes": 237,
+    "sha256_file": "22893d66f4f68b3f9a7e49cd3002c7dd12d99535c606be99168672e89b9cdd57"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_225759(8).txt",
+    "bytes": 236,
+    "sha256_file": "33bc5e52b56475cb49c369b67bb7d4715375cfbf28ff17591e942e432a079e67"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_225803(3).txt",
+    "bytes": 246,
+    "sha256_file": "4dd425914469d7e9d6476fbd28c907b720498624662294eb9659a9ff4a87ed0f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_225807(3).txt",
+    "bytes": 245,
+    "sha256_file": "ef23d5ffcb64c893be6d031800216b6a86f81d12da16017695555dc5f48e281e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_225810(5).txt",
+    "bytes": 237,
+    "sha256_file": "c6a1b9f1f969ae542460a02248a37be52ba7abe0bd029aa2fcf5f8c530e01dcf"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200714_225817(4).txt",
+    "bytes": 246,
+    "sha256_file": "13a494ffb86705453c013f6b8ebf97ebd4596f1592bd44b11220ef987dce4a74"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200715_002443(4).txt",
+    "bytes": 244,
+    "sha256_file": "1cdf16ac59373d165cbc6a31ff756e0c5f719c6341d0bdc3bca049cbc9241145"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200715_002447(9).txt",
+    "bytes": 249,
+    "sha256_file": "6606fd6371a03bc782b3e472aac23750b19c4acbd02484a4b112c8950c49b983"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200715_002456(9).txt",
+    "bytes": 223,
+    "sha256_file": "4d74bb1c09a08ebcf3470dea489abe9d26bbe68c736321cc37ebb873f73e9c32"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200715_002509(0).txt",
+    "bytes": 248,
+    "sha256_file": "f2dad930511fd3f2f1be10a2fa73bb2559a1923b4baf8fe01883c4514d908b68"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200715_002513(4).txt",
+    "bytes": 246,
+    "sha256_file": "6a5651c44acb1c1acc626606c108c0efbc92595a64d4532f17be2169a84fe014"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200831_163149(1).txt",
+    "bytes": 69,
+    "sha256_file": "4664d9eac02a873871e91c14ab4adceb49efc9bb92cb7019460320cbf6b9bc92"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200831_163150(6).txt",
+    "bytes": 81,
+    "sha256_file": "d1990668cc29dc96f97ab4a35643883e67312599f203b3c6c918ab65f9e91572"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200831_203101(4).txt",
+    "bytes": 83,
+    "sha256_file": "a0649a5ac280ff4a44a9e287a0434e5c1fc9890ed4d6669b188666dbe4f7572d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200831_203105(9).txt",
+    "bytes": 83,
+    "sha256_file": "8168a8b4b1ac6858b4b1798289988fcc968d1cd5720515cb6ef43ee3a34bc740"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_003133(6).txt",
+    "bytes": 83,
+    "sha256_file": "e54d5f6d94310187a0ced1e08e06407d70b820ce6647f51097cdbc690acead00"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_003136(6).txt",
+    "bytes": 82,
+    "sha256_file": "d8599dcf2f8b89afca79b8ce08b258c78516037e4a8c17f5f71dee52d19b87a3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_003139(6).txt",
+    "bytes": 82,
+    "sha256_file": "37b58f13732a61a62a7b6a9e411edb9cce07a1a675f646d704d9bf8cce8587a1"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_003142(6).txt",
+    "bytes": 82,
+    "sha256_file": "565e282077ba86f1f17d2a293c49249bed14d571352d5ef8d9cb228465556204"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_003148(6).txt",
+    "bytes": 82,
+    "sha256_file": "0145b507cc76f28ea4fa18a0a9f826015b0ff64de210c15ec534317cfa1c0a8f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_043133(6).txt",
+    "bytes": 82,
+    "sha256_file": "bb365bbd2d3b280cd94440adadc3b71a95dbb34d37f2ee65af6b5ea965153f57"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_043136(6).txt",
+    "bytes": 82,
+    "sha256_file": "e99afea38492c30773f7e0f7e3026ca2b1521572c39a40b910ec7c66e66f30af"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_043139(6).txt",
+    "bytes": 82,
+    "sha256_file": "9428cba29456f58daaa8a73e06c2e2e26db361658e0a80335a4733c490b62962"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_043142(6).txt",
+    "bytes": 82,
+    "sha256_file": "54d5784e3bef41762757d680b7d322c2a9a210bb0a7fb8ab3cf75e6783c01af0"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_043145(5).txt",
+    "bytes": 82,
+    "sha256_file": "9339e01b4f599d0e9a4d1e1a11f469dd339ca4bef0f12908bb2f87617b34cc76"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_043148(6).txt",
+    "bytes": 83,
+    "sha256_file": "a86ae1db26529310b56e74e888dc50ebad654b51c04def668318db7887849d20"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_083204(5).txt",
+    "bytes": 81,
+    "sha256_file": "1fa68ddb6b02bd8f2514b877779d425a6471527644e6b303afed1453e1e738d0"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_083452(2).txt",
+    "bytes": 82,
+    "sha256_file": "a3ed5b529e2e717d5ba9285cece5d2b3cccb7b710c2b37f47d7b8e5dcfdf7489"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_083456(7).txt",
+    "bytes": 81,
+    "sha256_file": "475abdbcf75855d6ea1723e3bf0324742b40b8cfd1e5e8c75cd807f4875678b4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_083501(2).txt",
+    "bytes": 81,
+    "sha256_file": "f870bd667101ddb68ea2975faaa23a7855366f83b4a74a675a3ed5decb7ef4ea"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_083505(8).txt",
+    "bytes": 82,
+    "sha256_file": "47e8fcda7c5283c2f20edb688527f9e78c99bd96f3d6ffbf1164481f9d8d25cc"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_083510(2).txt",
+    "bytes": 81,
+    "sha256_file": "f19019a7ff49cd4c99ebfc55b56ad10d8d3e31f02b9cf077e84bc8fac4948046"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_083514(7).txt",
+    "bytes": 82,
+    "sha256_file": "80157a4a34843956319e0d2c36dcdfdbb350a6cc77468117f4ab4440b318334e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_123049(7).txt",
+    "bytes": 82,
+    "sha256_file": "042b8a3e362633069bccb2808a2ce45586d504654c57f9cafb816699049c2dbb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_123052(7).txt",
+    "bytes": 82,
+    "sha256_file": "6eecbf7d3de7151f124728ca1cd5c3e3efbe99eb0c1ddda882280ea7187180c4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_123100(3).txt",
+    "bytes": 82,
+    "sha256_file": "366d2755d1effad6c4b51148ce01e3b67eec9e70fcea85c1d3a9d88551a96577"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_123104(8).txt",
+    "bytes": 81,
+    "sha256_file": "bea5bac3fa11f5a6fb4829037e05fce671e06b94d498cbb5e545446547960c51"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_123109(2).txt",
+    "bytes": 80,
+    "sha256_file": "c59f11a7e39aa1aa94cbe6a644600c3193280f6239f8b96cb0e0aa21d1a41634"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_191340(2).txt",
+    "bytes": 82,
+    "sha256_file": "aedc05c1cb47cbef4f083c96be5345a81c08323046d12c1835bf7e627cde9328"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_191343(2).txt",
+    "bytes": 82,
+    "sha256_file": "6b91721ff39950e3a59757aeea357e8e559b53e2f3530b33abee02b829642354"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_191346(1).txt",
+    "bytes": 82,
+    "sha256_file": "6cdc585f2d00707402d27b8670209127ec30138a7c2631b6d5545240bf954270"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_191348(8).txt",
+    "bytes": 82,
+    "sha256_file": "5047e3f650516d37563b4e5b8016ec1d31834e59779f8fc964a5def00edd82c9"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200901_191351(5).txt",
+    "bytes": 79,
+    "sha256_file": "fb08eb9bf6737135612c67466e6d8fb3a848acf0fcdbee11042a1a226532d822"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200904_230054(2).txt",
+    "bytes": 81,
+    "sha256_file": "041ba47c49ae5d1ef28f869a763b432dcc90984cebb1b3af9248a96ba77f4167"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200904_230057(6).txt",
+    "bytes": 81,
+    "sha256_file": "5d798d7ca411afa28ddec5e04cd01c11d1aab38a379c2ba9c79cd7cae39b2ab7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200904_230105(4).txt",
+    "bytes": 82,
+    "sha256_file": "e9d22b474321bf31ab76264022596376abc258e6a7fbabc2c4814f92f7fb7cbd"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_003315(2).txt",
+    "bytes": 81,
+    "sha256_file": "95ccc3be54b49290b5ddbd823b366baa80d7e0fbc56058300c71a383ab097c94"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_003319(2).txt",
+    "bytes": 81,
+    "sha256_file": "beae57d4d154dbd9a40053458ecff32d8ace7b4690c112e18632ca073cd1754d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_003323(3).txt",
+    "bytes": 67,
+    "sha256_file": "3977c72d0c35817a2c19ac5e92e907dfb1b2da5affc86fb82d493008ca0d0d47"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_003327(3).txt",
+    "bytes": 81,
+    "sha256_file": "0608c6a73944334d0a364170880e0dbcfe2334e34e097b05fc648dc40a6cab6f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_003331(2).txt",
+    "bytes": 82,
+    "sha256_file": "5e52c55e99ffd0451722cdfac5772d7619ef88a609aec5a5713f951b15c3807e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_003335(3).txt",
+    "bytes": 83,
+    "sha256_file": "6d395eec16f512280b7ac54fa88b8478b24ab718353cb6691c4eefeb12c16349"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_043156(0).txt",
+    "bytes": 82,
+    "sha256_file": "3bc3e33b1830a1c30cdc5dbfa1e16c0174a134fd01acf75cce49624ee96a0f44"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_043200(0).txt",
+    "bytes": 83,
+    "sha256_file": "526a726f03e1fbc8474c345d2aafa8aa55e497f176bd8a2a7a5a093abbd9ad26"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_043204(0).txt",
+    "bytes": 81,
+    "sha256_file": "00ab27b0769f7e61333706c2e0cd0af5df3dac208ee80d6c0402335099e08a25"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_043208(0).txt",
+    "bytes": 82,
+    "sha256_file": "f5c18fb01a5afb32709a464d783c8803a2f350c8ec65632b727b016ecd54545d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_043212(1).txt",
+    "bytes": 82,
+    "sha256_file": "8b205babb4d609873dcfe50aafce0df9de6e5674a0d7b2b1d2777f99579f0a2e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_043216(0).txt",
+    "bytes": 82,
+    "sha256_file": "9768b02ec91dcf0afc339bdceeacb7a3714ebbfe6bbfeddc7fee894682e59173"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_083407(3).txt",
+    "bytes": 82,
+    "sha256_file": "f5768297d23e03f943cf4504cea69dd8a8cee926c024fdb044d17e4e48fc674f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_083410(5).txt",
+    "bytes": 81,
+    "sha256_file": "aaf86de29aec08031e553c982e3b74439048700867a356b06ca3e9c3fc64c66f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_083413(6).txt",
+    "bytes": 81,
+    "sha256_file": "542238330aa60a796e47d495fc9bc0ae4327cb5bbaf13f855cbc95b55dfb2f22"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_083416(3).txt",
+    "bytes": 82,
+    "sha256_file": "b82519e0ab5f400e008b3d1ab7a9ddcdf310a43c20dc944231195e2b301db693"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_083419(3).txt",
+    "bytes": 81,
+    "sha256_file": "ada231b554de742ef4b736536abacba187589edc2f53c314f5ec959464d8653f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_083422(4).txt",
+    "bytes": 81,
+    "sha256_file": "c2e9ee87906f74ecc9e4be74ee135db308cb7f6a67c6da01d1a22e00abaa51f0"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_123055(0).txt",
+    "bytes": 83,
+    "sha256_file": "29fb7f153479a3b9ca51970a6e6c61b06191b5da7e891667748dbb08ad620dea"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_123058(4).txt",
+    "bytes": 81,
+    "sha256_file": "e7d2de31638d49f448926ad1f0e495c543ab854015d03bae07c17fed0ff3793f"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_123102(0).txt",
+    "bytes": 81,
+    "sha256_file": "be5d77ec2548148675a789b531b8741d742c11178b97c27577d86e21d59cfdaa"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_123103(4).txt",
+    "bytes": 82,
+    "sha256_file": "3e2fa7b7ad36adcbf82fe3f5a1e64a83c092bb516782e9778ffbca63db96195b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_123105(0).txt",
+    "bytes": 81,
+    "sha256_file": "4a1410e8b62ca401f8bdc97b97d3a36156e42d2f7e916059dfd852e3b069a634"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_123107(5).txt",
+    "bytes": 81,
+    "sha256_file": "f6b4ea67aac032457c68ae9682b32a694b9d41174772ecd98d2ffbd75b4ce4fb"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_123108(4).txt",
+    "bytes": 80,
+    "sha256_file": "d5a1d252bc0fce44d1a23f74688e78252b59aca90329fae7b37f4ddf19cff386"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_123111(6).txt",
+    "bytes": 82,
+    "sha256_file": "6354b47f587db7fe60cc6a68ee92ded3b8dd19a4d7620488a68d488846402568"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_123112(0).txt",
+    "bytes": 82,
+    "sha256_file": "02dad5a846e284f2c71734cf06221317958cd2117c59d54396d006e4dc6f36f5"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163920(4).txt",
+    "bytes": 82,
+    "sha256_file": "ff13e08984de47c5c57b8eadf5c960b0082e119f597c774c0b48e34f5ff56c6a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163922(9).txt",
+    "bytes": 81,
+    "sha256_file": "48a20e47d3cc7c2287fdacbe0143c517e7f3c9fad804877e028e3951268245b5"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163924(2).txt",
+    "bytes": 83,
+    "sha256_file": "489b1005c88cef527f64e1a0cfaaa644b3f764a54b08917367cd4e7dfde901cf"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163926(4).txt",
+    "bytes": 83,
+    "sha256_file": "4a574cedcccc12a4c3d28f021037885cd9bf5334d61954bedc22f2fb1287d111"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163928(3).txt",
+    "bytes": 83,
+    "sha256_file": "4a574cedcccc12a4c3d28f021037885cd9bf5334d61954bedc22f2fb1287d111"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163929(7).txt",
+    "bytes": 83,
+    "sha256_file": "752737fef8bd9288ab9217fdc885e5f40870156e4a4962c6dfeefe121239dc23"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163932(3).txt",
+    "bytes": 82,
+    "sha256_file": "9d20661bc0cf8ec69827f04cda23ff1b98a957053f2ef05dae302d7768b1cdaa"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163932(9).txt",
+    "bytes": 80,
+    "sha256_file": "ee325f6e356d12bfe61a8200c81d27452f10511afcf2f68dc32a900adf406319"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163936(2).txt",
+    "bytes": 82,
+    "sha256_file": "228783a7e611d0c50a5322376802f7a4e432da0c232ebe6e5e10050a64317ff7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163936(3).txt",
+    "bytes": 83,
+    "sha256_file": "8219fc0d2bb867b3605123021230bc68e14defe13cc8930b72ba9acd3056cb81"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163939(7).txt",
+    "bytes": 81,
+    "sha256_file": "6a4d47164c650a3a45c2249ff3f5bc688e02ebbbb766fcb3c764c117b8ec068d"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_163940(2).txt",
+    "bytes": 82,
+    "sha256_file": "7b71db7284e0a681367298a6d091a74c6aa5f0039548fd58944d8d2413d6efc1"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_203836(3).txt",
+    "bytes": 80,
+    "sha256_file": "cd4024d232e723ad8cfd702b7052b550fb5d0063e81a52e81c0df750635f068c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_203840(3).txt",
+    "bytes": 81,
+    "sha256_file": "41e99689c641ae0978e7338201d8d7834c27abc4856a7edb9a429254502eaf3b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_203844(2).txt",
+    "bytes": 81,
+    "sha256_file": "9890608e343d0fdb29b35033e598c2c7d37a0c9dd647b2bc3d6596ad08dddd65"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_203848(4).txt",
+    "bytes": 84,
+    "sha256_file": "73dfa08c100633cfa78187f49e6bdbe5bf97766c096be43e55b79b98a6a41220"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_203856(3).txt",
+    "bytes": 81,
+    "sha256_file": "aa2b500913028e639d076da1ace84297570295392c0f023fbed93850961c571c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_203900(3).txt",
+    "bytes": 83,
+    "sha256_file": "0d6edc99f405a2f232fba663ef0df2a3451cf56d38ff371727b8c32e69f87193"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_204033(3).txt",
+    "bytes": 81,
+    "sha256_file": "05ae8ce0f182505ccd83dcee2ed20ab98137d9bb04baf38d4d77e9b1bb15d335"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_204039(5).txt",
+    "bytes": 82,
+    "sha256_file": "e150467275d71e822846d77316a92d12dd188f023d9fdbacdc2950587895f5c3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_204042(9).txt",
+    "bytes": 82,
+    "sha256_file": "c6e257ecdc35b4f165ab6903676657b8bb80f9afa69f27952d6446dd09e1a1ab"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_204046(0).txt",
+    "bytes": 82,
+    "sha256_file": "b493a60a3ec5dc4382fd598af2025cf67424b41aafd26131206ec90d88c8ede9"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_204049(1).txt",
+    "bytes": 84,
+    "sha256_file": "9d9bd1943bbb372fc2c8181d675e8aa13dc5d7e4b24dd3fd0ce968842912483e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200905_204052(3).txt",
+    "bytes": 82,
+    "sha256_file": "013eef03a389344aa2d11cd1a367dd642a462f7993c27f3ad65914dc03e4ca47"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003059(0).txt",
+    "bytes": 82,
+    "sha256_file": "433be9f8389fd73f4e6a3fd2ada599e9cb7cc56aade5eb61b452d0fca7cb6b98"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003114(0).txt",
+    "bytes": 81,
+    "sha256_file": "a69f9c4d3e1e51ce3a66e87eb233283d19957af6a0d57d773a5407379091e619"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003114(8).txt",
+    "bytes": 81,
+    "sha256_file": "c223094b1496d844e1466e556fb2ea9c89da41c13a8781b639bb4d4e111dd9b2"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003117(3).txt",
+    "bytes": 81,
+    "sha256_file": "0dc957fd923ddec895b77b9f0086abb0fc08da199bb67003074d2e61d217e0d3"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003118(7).txt",
+    "bytes": 82,
+    "sha256_file": "c0808773fb349f529c2691153149517cc13e277a2f87f5bc4c06cb0d0b4761fe"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003120(8).txt",
+    "bytes": 81,
+    "sha256_file": "556bac5c07f837496750c9f43da02725354fe46eebf7d8e9c7b62d9eb5a31dd4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003122(7).txt",
+    "bytes": 82,
+    "sha256_file": "264c51eb2fc769c7369464d7ff7049210a5b67aa060a28843126cb2d2d6bca63"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003124(0).txt",
+    "bytes": 81,
+    "sha256_file": "fb8474c8dccf9dc3245b072dbe4e93e252742ef15c12eb3b93de0801bc5c6b53"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003126(8).txt",
+    "bytes": 83,
+    "sha256_file": "d9e480b22a7f0142b4a2b93631758bb247d0473940f3ad2607ce58c531c3d10a"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003127(3).txt",
+    "bytes": 82,
+    "sha256_file": "7f248c4ead4fbcd1d5a9b923e0d23e34651ddc5bb1e0ec94842b0af34b12f807"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003130(7).txt",
+    "bytes": 81,
+    "sha256_file": "6ce5d1dd26e1712622d52350c27769278893d07919d783e85c0069835f2203f9"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200906_003132(7).txt",
+    "bytes": 83,
+    "sha256_file": "c9409d5d551d422df0ea6797c67bc818c29497e5f18eddde1f978cdec1f24a86"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_184813(1).txt",
+    "bytes": 82,
+    "sha256_file": "bdd406a0c071520970f544cda67ee408701d150d3a82fba92bf2c0c73fe0a559"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_184815(7).txt",
+    "bytes": 82,
+    "sha256_file": "f85f933d726fc0c058052fadeb42205a6ce25bd0276ab06f76d3629a33ecbc1e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_184818(2).txt",
+    "bytes": 81,
+    "sha256_file": "c74f5fd9d91ced8430034527212f88881f852f927707ec8bd8e9ba2628816266"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_184823(7).txt",
+    "bytes": 81,
+    "sha256_file": "0659b9926ee745400d722d38eed1b4da7153e8679230ff63580cb1e673401a26"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_184826(3).txt",
+    "bytes": 81,
+    "sha256_file": "5ef6544e4d89e321b4f6b10dd740df2a79337e70457729b63602836ae2ecd490"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_184828(8).txt",
+    "bytes": 82,
+    "sha256_file": "1f78698b6983c8bf5585c62b0cecbdfddf5586d2185753406415f7152d3de3b2"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_204635(5).txt",
+    "bytes": 82,
+    "sha256_file": "067aee9f8e29021b4ac702de1f5c530dc77d54f97b8a59cb439147ffd5b79a9e"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_204640(0).txt",
+    "bytes": 82,
+    "sha256_file": "38b584dc7c5cb2f2165ec40295984d1cb63769474f3c891d0b28784ddb649a64"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_204644(5).txt",
+    "bytes": 81,
+    "sha256_file": "d717183fb80e33170a8b238c05e6aa579efbaac23c704581f894bcf9235c4583"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_204649(0).txt",
+    "bytes": 82,
+    "sha256_file": "fbd8c9e9dd21c2d677543c653944555970a9f87699c78b65cf02c2f4e96fcd99"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\라벨링 6종 세트\\labels\\002_20200907_204653(4).txt",
+    "bytes": 81,
+    "sha256_file": "a2eef515a12147bfa364c2032f14e6bf5def9847d4df8155473cd368cd240ca6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\001_20200622_203312(6).txt",
+    "bytes": 249,
+    "sha256_file": "a52596fe13c3c0793916f6f3e1d0b97206ea35af8a1401e68795e69145fc3460"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\001_20200623_003516(8).txt",
+    "bytes": 240,
+    "sha256_file": "23dea408722d91424047e400ff133cf605d534f4017faff50d0e2d0fdf31045b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\001_20200901_003429(1).txt",
+    "bytes": 75,
+    "sha256_file": "f0781a17af68b6eccd6741f531fbba67be7efa57568c3d898189a21b2ee63f91"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\001_20200922_163329(0).txt",
+    "bytes": 75,
+    "sha256_file": "54af50cc3413fc2f3ae77c5c520f4bcb285fc251cf73c81118cf3bce8dfcc6be"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\001_20200922_163332(2).txt",
+    "bytes": 73,
+    "sha256_file": "d2c2223b6a2ee44fff20ab2efc080662669644e0465d4a18ac43e2abdbef743c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\002_20200714_043029(1).txt",
+    "bytes": 247,
+    "sha256_file": "5183db6f8dd77a9cf52b3f401bf1d9f64672158e1104c182b3c77f9b52f34d67"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\002_20200715_042416(9).txt",
+    "bytes": 238,
+    "sha256_file": "bf01d001dea1ee53d1e480460573b53f05fe6c3f5a2ecb4fdc1210c2839acf2b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\002_20200831_083545(0).txt",
+    "bytes": 69,
+    "sha256_file": "b8a9538c7f6bf8d40ae4a60ed5fa9f3e91d89f5a447e65752ed2278001554277"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\002_20200831_123134(5).txt",
+    "bytes": 83,
+    "sha256_file": "3000fe5786f08389f479897627b503b7bbe6f2a948d09c3c9407ef8ca610acb2"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\002_20200908_043137(8).txt",
+    "bytes": 83,
+    "sha256_file": "b7e60aaee96b19589794e6105894668361d449074ea0b30306854d69f97358d4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\002_20200915_003459(4).txt",
+    "bytes": 80,
+    "sha256_file": "635bb45507d074ff02f60601d44432aa5cb8aff81d2e948d4d64d01755cb0ab6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\002_20200917_043110(7).txt",
+    "bytes": 82,
+    "sha256_file": "146e0842612abaacb56575ad04af411d722ebe149b06d8a3f0c95702ad2986e7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\002_20200917_202952(6).txt",
+    "bytes": 80,
+    "sha256_file": "bb948a5cc1936e2148cdfa13af5fd3d3bbc339dc84575d9b364867163978329b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\002_20200917_203001(5).txt",
+    "bytes": 82,
+    "sha256_file": "7be85d858868acb3f8906b1a278cb51f8c4bda07e40c865707a7e179e134c984"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\OpenLabeling-master\\main\\output\\YOLO_darknet\\002_20200922_083747(7).txt",
+    "bytes": 83,
+    "sha256_file": "a3cca777332924df9a6c65812f650f9ab3b3dd281a012fc2b1dbea6ee01a2587"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\001_20200622_203312(6).txt",
+    "bytes": 249,
+    "sha256_file": "a52596fe13c3c0793916f6f3e1d0b97206ea35af8a1401e68795e69145fc3460"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\001_20200623_003516(8).txt",
+    "bytes": 240,
+    "sha256_file": "23dea408722d91424047e400ff133cf605d534f4017faff50d0e2d0fdf31045b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\001_20200901_003429(1).txt",
+    "bytes": 75,
+    "sha256_file": "f0781a17af68b6eccd6741f531fbba67be7efa57568c3d898189a21b2ee63f91"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\001_20200922_163329(0).txt",
+    "bytes": 75,
+    "sha256_file": "54af50cc3413fc2f3ae77c5c520f4bcb285fc251cf73c81118cf3bce8dfcc6be"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\001_20200922_163332(2).txt",
+    "bytes": 73,
+    "sha256_file": "d2c2223b6a2ee44fff20ab2efc080662669644e0465d4a18ac43e2abdbef743c"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\002_20200714_043029(1).txt",
+    "bytes": 247,
+    "sha256_file": "5183db6f8dd77a9cf52b3f401bf1d9f64672158e1104c182b3c77f9b52f34d67"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\002_20200715_042416(9).txt",
+    "bytes": 238,
+    "sha256_file": "bf01d001dea1ee53d1e480460573b53f05fe6c3f5a2ecb4fdc1210c2839acf2b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\002_20200831_083545(0).txt",
+    "bytes": 69,
+    "sha256_file": "b8a9538c7f6bf8d40ae4a60ed5fa9f3e91d89f5a447e65752ed2278001554277"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\002_20200831_123134(5).txt",
+    "bytes": 83,
+    "sha256_file": "3000fe5786f08389f479897627b503b7bbe6f2a948d09c3c9407ef8ca610acb2"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\002_20200908_043137(8).txt",
+    "bytes": 83,
+    "sha256_file": "b7e60aaee96b19589794e6105894668361d449074ea0b30306854d69f97358d4"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\002_20200915_003459(4).txt",
+    "bytes": 80,
+    "sha256_file": "635bb45507d074ff02f60601d44432aa5cb8aff81d2e948d4d64d01755cb0ab6"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\002_20200917_043110(7).txt",
+    "bytes": 82,
+    "sha256_file": "146e0842612abaacb56575ad04af411d722ebe149b06d8a3f0c95702ad2986e7"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\002_20200917_202952(6).txt",
+    "bytes": 80,
+    "sha256_file": "bb948a5cc1936e2148cdfa13af5fd3d3bbc339dc84575d9b364867163978329b"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\002_20200917_203001(5).txt",
+    "bytes": 82,
+    "sha256_file": "7be85d858868acb3f8906b1a278cb51f8c4bda07e40c865707a7e179e134c984"
+  },
+  {
+    "relative_path": "4. X-ray 검사장비 AI 데이터셋\\dataset\\test1\\yolov3\\labels\\002_20200922_083747(7).txt",
+    "bytes": 83,
+    "sha256_file": "a3cca777332924df9a6c65812f650f9ab3b3dd281a012fc2b1dbea6ee01a2587"
+  }
+]

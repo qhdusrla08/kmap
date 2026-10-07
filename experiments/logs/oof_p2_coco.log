@@ -1,0 +1,4 @@
+fold 0 {"ms_per_image_mean": 10.477355232945197, "ms_per_image_p95": 23.06191623210907}
+fold 1 {"ms_per_image_mean": 8.105372007076557, "ms_per_image_p95": 9.005188941955566}
+fold 2 {"ms_per_image_mean": 8.688061795336138, "ms_per_image_p95": 10.087653994560242}
+fold 3 {"ms_per_image_mean": 8.122756126079157, "ms_per_image_p95": 9.355515241622925}

@@ -1,0 +1,4 @@
+fold 0 {"n_train": 678786, "n_pos": 4095, "ms_per_image_mean": 49.14581487960108}
+fold 1 {"n_train": 688712, "n_pos": 4227, "ms_per_image_mean": 70.86427184617605}
+fold 2 {"n_train": 706350, "n_pos": 5236, "ms_per_image_mean": 65.25043751062572}
+fold 3 {"n_train": 709207, "n_pos": 4787, "ms_per_image_mean": 64.10879342548527}

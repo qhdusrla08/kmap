@@ -1,0 +1,52 @@
+{
+  "status": "passed",
+  "absolute_tolerance": 1e-10,
+  "relative_tolerance": 1e-09,
+  "compared_files": [
+    {
+      "file": "split.json",
+      "matches_previous": true,
+      "differences": []
+    },
+    {
+      "file": "xray_results.json",
+      "matches_previous": true,
+      "differences": []
+    },
+    {
+      "file": "robustness_results.json",
+      "matches_previous": true,
+      "differences": []
+    },
+    {
+      "file": "robustness_hgb_results.json",
+      "matches_previous": true,
+      "differences": []
+    },
+    {
+      "file": "overlap_result.json",
+      "matches_previous": true,
+      "differences": []
+    },
+    {
+      "file": "final_summary.json",
+      "matches_previous": true,
+      "differences": []
+    },
+    {
+      "file": "xray_unique_summary.json",
+      "matches_previous": true,
+      "differences": []
+    },
+    {
+      "file": "xml_audit.json",
+      "matches_previous": true,
+      "differences": []
+    },
+    {
+      "file": "proposal_stats.json",
+      "matches_previous": true,
+      "differences": []
+    }
+  ]
+}

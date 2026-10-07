@@ -1,0 +1,11 @@
+robust features 300
+robust features 400
+{'AP50': 0.9849624060150376, 'recall': 0.9849624060150376, 'precision': 1.0, 'F1': 0.9924242424242424, 'TP': 131, 'FP': 0, 'FN': 2, 'images': 133, 'objects': 133, 'FP_per_image': 0.0, 'seed': 42, 'variant': 'inpaint', 'threshold': 0.05}
+{'AP50': 0.9643146327356855, 'recall': 0.9699248120300752, 'precision': 0.9923076923076923, 'F1': 0.9809885931558935, 'TP': 129, 'FP': 1, 'FN': 4, 'images': 133, 'objects': 133, 'FP_per_image': 0.007518796992481203, 'seed': 42, 'variant': 'dilation2', 'threshold': 0.05}
+{'AP50': 0.984054094968966, 'recall': 0.9774436090225563, 'precision': 1.0, 'F1': 0.9885931558935361, 'TP': 130, 'FP': 0, 'FN': 3, 'images': 133, 'objects': 133, 'FP_per_image': 0.0, 'seed': 42, 'variant': 'dilation3', 'threshold': 0.05}
+{'AP50': 0.9508341165413533, 'recall': 0.9548872180451128, 'precision': 0.9921875, 'F1': 0.9731800766283525, 'TP': 127, 'FP': 1, 'FN': 6, 'images': 133, 'objects': 133, 'FP_per_image': 0.007518796992481203, 'seed': 42, 'variant': 'product_decoy', 'threshold': 0.05}
+{'AP50': 0.0052096177048388086, 'recall': 0.015037593984962405, 'precision': 0.07407407407407407, 'F1': 0.025, 'TP': 2, 'FP': 25, 'FN': 131, 'images': 133, 'objects': 133, 'FP_per_image': 0.18796992481203006, 'seed': 42, 'variant': 'erase_marker_interior', 'threshold': 0.05}
+{'AP50': 0.0050973020787262275, 'recall': 0.0, 'precision': 0.0, 'F1': 0.0, 'TP': 0, 'FP': 1, 'FN': 133, 'images': 133, 'objects': 133, 'FP_per_image': 0.007518796992481203, 'seed': 42, 'variant': 'median3', 'threshold': 0.05}
+{'AP50': 0.9924812030075187, 'recall': 0.9924812030075187, 'precision': 1.0, 'F1': 0.9962264150943396, 'TP': 132, 'FP': 0, 'FN': 1, 'images': 133, 'objects': 133, 'FP_per_image': 0.0, 'seed': 84, 'variant': 'inpaint', 'threshold': 0.1}
+{'AP50': 0.9803406723865767, 'recall': 0.9624060150375939, 'precision': 0.9922480620155039, 'F1': 0.9770992366412213, 'TP': 128, 'FP': 1, 'FN': 5, 'images': 133, 'objects': 133, 'FP_per_image': 0.007518796992481203, 'seed': 2026, 'variant': 'inpaint', 'threshold': 0.15}
+DONE

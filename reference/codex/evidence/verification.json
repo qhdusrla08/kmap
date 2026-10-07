@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "unique_images": 500,
+  "objects": 1147,
+  "date_splits_disjoint": true,
+  "metrics_consistent": true,
+  "source_annotation_files": 530
+}

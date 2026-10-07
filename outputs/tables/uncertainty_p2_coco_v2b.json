@@ -1,0 +1,43 @@
+{
+  "model": "p2_coco_v2b",
+  "t_low": 0.9495367025876195,
+  "n_objects": 969,
+  "n_images": 400,
+  "corr_std_vs_mean_objects": -0.5605223853062492,
+  "rules": [
+    {
+      "u": 0.02,
+      "misses_at_t_low": 27,
+      "misses_recovered": 12,
+      "extra_reinspect_rate_neg_proxy": 0.0325
+    },
+    {
+      "u": 0.05,
+      "misses_at_t_low": 27,
+      "misses_recovered": 12,
+      "extra_reinspect_rate_neg_proxy": 0.0225
+    },
+    {
+      "u": 0.1,
+      "misses_at_t_low": 27,
+      "misses_recovered": 12,
+      "extra_reinspect_rate_neg_proxy": 0.015
+    },
+    {
+      "u": 0.15,
+      "misses_at_t_low": 27,
+      "misses_recovered": 12,
+      "extra_reinspect_rate_neg_proxy": 0.0075
+    },
+    {
+      "u": 0.2,
+      "misses_at_t_low": 27,
+      "misses_recovered": 12,
+      "extra_reinspect_rate_neg_proxy": 0.0
+    }
+  ],
+  "recall_objects_id_at_t_low": 0.9721362229102167,
+  "recall_objects_tta_mean_at_t_low": 0.9649122807017544,
+  "negproxy_fpr_id_at_t_low": 0.0025,
+  "negproxy_fpr_tta_mean_at_t_low": 0.0025
+}

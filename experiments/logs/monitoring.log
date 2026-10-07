@@ -1,0 +1,11 @@
+/home/yeon030108/miniconda3/envs/kmap/lib/python3.11/site-packages/numpy/lib/_nanfunctions_impl.py:1241: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+                   n  conf_med  depth_med  pass_prior  pass_now
+machine product                                                
+1       1band    461     0.727       56.0       0.024       0.0
+        3band    233     0.713       59.0       0.000       0.0
+        no_band   93     0.000        NaN       1.000       0.0
+2       1band    364     0.725       40.0       0.000       0.0
+        3band    264     0.731       40.0       0.000       0.0
+3       1band    347     0.645       48.0       0.124       0.0
+        3band    270     0.688       47.0       0.004       0.0

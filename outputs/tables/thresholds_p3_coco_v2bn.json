@@ -1,0 +1,78 @@
+{
+  "model": "p3_coco_v2bn",
+  "rule": "max",
+  "t_low_prior": 0.9219105802890879,
+  "rule_values": {
+    "max": 0.9219105802890879,
+    "margin": 0.9148031776827625,
+    "cost": 0.6234354146541448
+  },
+  "ood_guard": null,
+  "calibration": "platt",
+  "ece": {
+    "isotonic": 0.010178134228588204,
+    "platt": 0.0031854704946262307,
+    "raw": 0.19616599561216586
+  },
+  "brier": {
+    "isotonic": 0.02825295932613539,
+    "platt": 0.027794355608800274,
+    "raw": 0.07856699704991993
+  },
+  "target_recall": 0.99,
+  "target_reachable": true,
+  "max_recall_one_obj": 1.0,
+  "max_fpr": 0.0,
+  "t_low": 0.9219105802890879,
+  "t_high": 0.9677067029543107,
+  "zone_collapsed": false,
+  "zones": {
+    "positive_images(one_obj)": {
+      "pass_": 0.008695652173913044,
+      "reinspect": 0.9652173913043478,
+      "reject": 0.02608695652173913
+    },
+    "positive_images(all)": {
+      "pass_": 0.0075,
+      "reinspect": 0.75,
+      "reject": 0.2425
+    },
+    "negative_proxy(bg_max)": {
+      "pass_": 0.9975,
+      "reinspect": 0.0025,
+      "reject": 0.0
+    }
+  },
+  "recall_one_obj_at_t_low": 0.991304347826087,
+  "recall_one_obj_at_t_low_CI95": [
+    0.9638444019982368,
+    1.0
+  ],
+  "rule_of_three_upper_miss": 0.02608695652173913,
+  "n_one_obj": 115,
+  "n_images": 400,
+  "negative_proxy_fpr_at_t_low": 0.0025,
+  "scenarios": [
+    {
+      "prevalence": 0.001,
+      "miss_rate_per_item": 8.695652173913044e-06,
+      "reinspect_rate": 0.0034627173913042947,
+      "reject_rate": 2.6086956521739128e-05,
+      "precision_of_flag": 0.28413870455183166
+    },
+    {
+      "prevalence": 0.01,
+      "miss_rate_per_item": 8.695652173913044e-05,
+      "reinspect_rate": 0.012127173913043427,
+      "reject_rate": 0.0002608695652173913,
+      "precision_of_flag": 0.8002105817320382
+    },
+    {
+      "prevalence": 0.1,
+      "miss_rate_per_item": 0.0008695652173913044,
+      "reinspect_rate": 0.09877173913043474,
+      "reject_rate": 0.0026086956521739132,
+      "precision_of_flag": 0.9778063686072698
+    }
+  ]
+}

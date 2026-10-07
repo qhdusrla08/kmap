@@ -1,0 +1,103 @@
+{
+  "by_machine_product": [
+    {
+      "machine": 1,
+      "product": "1band",
+      "noise_sigma": 1.334,
+      "bg_level": 210.0,
+      "product_level": 147.0,
+      "band_level": 116.0,
+      "band_contrast": 30.0
+    },
+    {
+      "machine": 1,
+      "product": "3band",
+      "noise_sigma": 1.168,
+      "bg_level": 210.0,
+      "product_level": 146.0,
+      "band_level": 115.0,
+      "band_contrast": 30.0
+    },
+    {
+      "machine": 1,
+      "product": "no_band",
+      "noise_sigma": 1.392,
+      "bg_level": 210.0,
+      "product_level": 141.5,
+      "band_level": null,
+      "band_contrast": null
+    },
+    {
+      "machine": 2,
+      "product": "1band",
+      "noise_sigma": 1.573,
+      "bg_level": 210.0,
+      "product_level": 110.0,
+      "band_level": 79.0,
+      "band_contrast": 31.0
+    },
+    {
+      "machine": 2,
+      "product": "3band",
+      "noise_sigma": 1.513,
+      "bg_level": 210.0,
+      "product_level": 110.0,
+      "band_level": 79.0,
+      "band_contrast": 31.0
+    },
+    {
+      "machine": 2,
+      "product": "no_band",
+      "noise_sigma": 1.489,
+      "bg_level": 210.0,
+      "product_level": 106.0,
+      "band_level": null,
+      "band_contrast": null
+    },
+    {
+      "machine": 3,
+      "product": "1band",
+      "noise_sigma": 3.512,
+      "bg_level": 210.0,
+      "product_level": 127.0,
+      "band_level": 97.0,
+      "band_contrast": 30.0
+    },
+    {
+      "machine": 3,
+      "product": "3band",
+      "noise_sigma": 3.461,
+      "bg_level": 210.0,
+      "product_level": 127.0,
+      "band_level": 97.0,
+      "band_contrast": 31.0
+    }
+  ],
+  "m3_1band_spearman": {
+    "noise_sigma": {
+      "rho": 0.06112209685591827,
+      "p": 0.25615241454256116
+    },
+    "bg_level": {
+      "rho": NaN,
+      "p": NaN
+    },
+    "product_level": {
+      "rho": 0.0354640490716131,
+      "p": 0.5102519213115955
+    },
+    "band_level": {
+      "rho": 0.026145291048801932,
+      "p": 0.6274221123812032
+    },
+    "band_contrast": {
+      "rho": -0.012646952585122587,
+      "p": 0.8144059231647828
+    }
+  },
+  "m3_1band_n": 347,
+  "r2_group": 0.6417331609915767,
+  "r2_quality": 0.5205119268211966,
+  "r2_group_plus_quality": 0.6428892424655217,
+  "n_regression": 1928
+}

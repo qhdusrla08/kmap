@@ -1,0 +1,12 @@
+{
+  "count_histogram": {
+    "3": 7,
+    "0": 810,
+    "1": 13,
+    "9": 1,
+    "7": 1,
+    "6": 1
+  },
+  "empty_overlapping_positive_txt": 14,
+  "positive_overlapping_txt": 9
+}

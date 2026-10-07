@@ -1,0 +1,11 @@
+robust features 300
+robust features 400
+{'AP50': 0.9796395890036842, 'recall': 0.14285714285714285, 'precision': 1.0, 'F1': 0.25, 'TP': 19, 'FP': 0, 'FN': 114, 'images': 133, 'objects': 133, 'FP_per_image': 0.0, 'seed': 42, 'variant': 'inpaint', 'threshold': 0.44999999999999996}
+{'AP50': 0.9874493165641648, 'recall': 0.15789473684210525, 'precision': 1.0, 'F1': 0.2727272727272727, 'TP': 21, 'FP': 0, 'FN': 112, 'images': 133, 'objects': 133, 'FP_per_image': 0.0, 'seed': 42, 'variant': 'dilation2', 'threshold': 0.44999999999999996}
+{'AP50': 0.9916346842133555, 'recall': 0.15789473684210525, 'precision': 1.0, 'F1': 0.2727272727272727, 'TP': 21, 'FP': 0, 'FN': 112, 'images': 133, 'objects': 133, 'FP_per_image': 0.0, 'seed': 42, 'variant': 'dilation3', 'threshold': 0.44999999999999996}
+{'AP50': 0.9591566770122049, 'recall': 0.15037593984962405, 'precision': 1.0, 'F1': 0.26143790849673204, 'TP': 20, 'FP': 0, 'FN': 113, 'images': 133, 'objects': 133, 'FP_per_image': 0.0, 'seed': 42, 'variant': 'product_decoy', 'threshold': 0.44999999999999996}
+{'AP50': 0.012380046904869787, 'recall': 0.0, 'precision': 0.0, 'F1': 0.0, 'TP': 0, 'FP': 17, 'FN': 133, 'images': 133, 'objects': 133, 'FP_per_image': 0.12781954887218044, 'seed': 42, 'variant': 'erase_marker_interior', 'threshold': 0.44999999999999996}
+{'AP50': 0.16477698330658316, 'recall': 0.015037593984962405, 'precision': 1.0, 'F1': 0.02962962962962963, 'TP': 2, 'FP': 0, 'FN': 131, 'images': 133, 'objects': 133, 'FP_per_image': 0.0, 'seed': 42, 'variant': 'median3', 'threshold': 0.44999999999999996}
+{'AP50': 0.9781492072088902, 'recall': 0.14285714285714285, 'precision': 1.0, 'F1': 0.25, 'TP': 19, 'FP': 0, 'FN': 114, 'images': 133, 'objects': 133, 'FP_per_image': 0.0, 'seed': 84, 'variant': 'inpaint', 'threshold': 0.44999999999999996}
+{'AP50': 0.9842373862202238, 'recall': 0.15037593984962405, 'precision': 1.0, 'F1': 0.26143790849673204, 'TP': 20, 'FP': 0, 'FN': 113, 'images': 133, 'objects': 133, 'FP_per_image': 0.0, 'seed': 2026, 'variant': 'inpaint', 'threshold': 0.35}
+DONE

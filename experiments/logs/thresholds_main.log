@@ -1,0 +1,49 @@
+{
+ "model": "p2_coco",
+ "calibration": "platt",
+ "ece": {
+  "isotonic": 0.0006743107584092395,
+  "platt": 0.0006574352649558219,
+  "raw": 0.22541521486442817
+ },
+ "brier": {
+  "isotonic": 0.012278321650368693,
+  "platt": 0.012085680900914508,
+  "raw": 0.08086084769464172
+ },
+ "target_recall": 0.99,
+ "max_fpr": 0.0,
+ "t_low": 0.7824875536366795,
+ "t_high": 0.989750905872981,
+ "zone_collapsed": false,
+ "zones": {
+  "positive_images(one_obj)": {
+   "pass_": 0.008695652173913044,
+   "reinspect": 0.8695652173913043,
+   "reject": 0.12173913043478261
+  },
+  "positive_images(all)": {
+   "pass_": 0.0325,
+   "reinspect": 0.8925,
+   "reject": 0.075
+  },
+  "negative_proxy(bg_max)": {
+   "pass_": 0.9975,
+   "reinspect": 0.0025,
+   "reject": 0.0
+  }
+ },
+ "recall_one_obj_at_t_low": 0.991304347826087,
+ "recall_one_obj_at_t_low_CI95": [
+  0.953125,
+  1.0
+ ],
+ "rule_of_three_upper_miss": 0.02608695652173913,
+ "n_one_obj": 115,
+ "n_images": 400,
+ "negative_proxy_fpr_at_t_low": 0.0025
+}
+ prevalence  miss_rate_per_item  reinspect_rate  reject_rate  precision_of_flag
+      0.001            0.000009        0.003367     0.000122           0.284139
+      0.010            0.000087        0.011171     0.001217           0.800211
+      0.100            0.000870        0.089207     0.012174           0.977806

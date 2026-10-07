@@ -1,0 +1,179 @@
+Could not save font_manager cache [Errno 13] Permission denied: 'C:\\Users\\yeon0\\.matplotlib\\fontlist-v3.11.0.json.matplotlib-lock'
+{
+  "cohorts": [
+    {
+      "factor": "small",
+      "level": "False",
+      "n": 104,
+      "TP": 102,
+      "FN": 2,
+      "recall": 0.9807692307692307
+    },
+    {
+      "factor": "small",
+      "level": "True",
+      "n": 29,
+      "TP": 29,
+      "FN": 0,
+      "recall": 1.0
+    },
+    {
+      "factor": "low_contrast",
+      "level": "False",
+      "n": 80,
+      "TP": 80,
+      "FN": 0,
+      "recall": 1.0
+    },
+    {
+      "factor": "low_contrast",
+      "level": "True",
+      "n": 53,
+      "TP": 51,
+      "FN": 2,
+      "recall": 0.9622641509433962
+    },
+    {
+      "factor": "marker_overlap",
+      "level": "False",
+      "n": 133,
+      "TP": 131,
+      "FN": 2,
+      "recall": 0.9849624060150376
+    },
+    {
+      "factor": "prefix",
+      "level": "001",
+      "n": 24,
+      "TP": 24,
+      "FN": 0,
+      "recall": 1.0
+    },
+    {
+      "factor": "prefix",
+      "level": "002",
+      "n": 109,
+      "TP": 107,
+      "FN": 2,
+      "recall": 0.981651376146789
+    }
+  ],
+  "cutoffs_from_train": {
+    "small_area_lte": 87.99999999999969,
+    "low_contrast_lte": 38.0
+  },
+  "date_cluster_bootstrap_recall_CI95": [
+    0.96,
+    1.0
+  ],
+  "FN_records": [
+    {
+      "stem": "002_20200904_230054(2)",
+      "k": 0,
+      "w": 9.999999999999972,
+      "h": 11.0,
+      "area": 109.99999999999967,
+      "x": 0.7626582278481012,
+      "y": 0.4322289156626506,
+      "marker_pixels": 0,
+      "dilated_fraction": 0.0,
+      "center_inside_marker": true,
+      "marker_iou": 0.3055555555555556,
+      "clean_contrast": 30,
+      "raw_contrast": 30,
+      "hit": 0,
+      "date": "20200904",
+      "prefix": "002",
+      "small": false,
+      "low_contrast": true,
+      "marker_overlap": false
+    },
+    {
+      "stem": "002_20200905_043156(0)",
+      "k": 0,
+      "w": 9.0,
+      "h": 10.0,
+      "area": 90.0,
+      "x": 0.805379746835443,
+      "y": 0.5180722891566265,
+      "marker_pixels": 0,
+      "dilated_fraction": 0.0,
+      "center_inside_marker": true,
+      "marker_iou": 0.2777777777777778,
+      "clean_contrast": 35,
+      "raw_contrast": 35,
+      "hit": 0,
+      "date": "20200905",
+      "prefix": "002",
+      "small": false,
+      "low_contrast": true,
+      "marker_overlap": false
+    }
+  ],
+  "date_stats": [
+    {
+      "date": "20200819",
+      "n": 9,
+      "tp": 9
+    },
+    {
+      "date": "20200821",
+      "n": 4,
+      "tp": 4
+    },
+    {
+      "date": "20200826",
+      "n": 6,
+      "tp": 6
+    },
+    {
+      "date": "20200831",
+      "n": 7,
+      "tp": 7
+    },
+    {
+      "date": "20200901",
+      "n": 28,
+      "tp": 28
+    },
+    {
+      "date": "20200904",
+      "n": 3,
+      "tp": 2
+    },
+    {
+      "date": "20200905",
+      "n": 51,
+      "tp": 50
+    },
+    {
+      "date": "20200906",
+      "n": 12,
+      "tp": 12
+    },
+    {
+      "date": "20200907",
+      "n": 11,
+      "tp": 11
+    },
+    {
+      "date": "20200922",
+      "n": 2,
+      "tp": 2
+    }
+  ],
+  "product_decoy_touched_objects": 15,
+  "AP_by_IoU": {
+    "0.50": 0.9849624060150376,
+    "0.55": 0.9407105550134879,
+    "0.60": 0.8264937152040406,
+    "0.65": 0.6571198989841016,
+    "0.70": 0.46490271480227285,
+    "0.75": 0.31973315590549106,
+    "0.80": 0.20200096656432362,
+    "0.85": 0.053924241090880204,
+    "0.90": 0.020977440046192352,
+    "0.95": 0.003260363297624592
+  },
+  "mean_AP50_95_custom": 0.44740854569234534
+}

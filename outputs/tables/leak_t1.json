@@ -1,0 +1,55 @@
+{
+  "default": {
+    "n_real": 1144,
+    "n_decoy": 2788,
+    "real_vs_band_end": {
+      "logreg": 0.9432,
+      "hgb": 0.9888
+    },
+    "real_vs_all_decoys": {
+      "logreg": 0.9688,
+      "hgb": 0.9949
+    }
+  },
+  "telea_nonoise": {
+    "n_real": 1144,
+    "n_decoy": 2788,
+    "real_vs_band_end": {
+      "logreg": 0.9709,
+      "hgb": 0.995
+    },
+    "real_vs_all_decoys": {
+      "logreg": 0.9825,
+      "hgb": 0.9976
+    }
+  },
+  "d0": {
+    "n_real": 1144,
+    "n_decoy": 2788,
+    "real_vs_band_end": {
+      "logreg": 0.9544,
+      "hgb": 0.9886
+    },
+    "real_vs_all_decoys": {
+      "logreg": 0.9758,
+      "hgb": 0.9958
+    }
+  },
+  "raw": {
+    "n_real": 1144,
+    "n_decoy": 2788,
+    "real_vs_band_end": {
+      "logreg": 0.9972,
+      "hgb": 0.9992
+    },
+    "real_vs_all_decoys": {
+      "logreg": 0.9985,
+      "hgb": 0.9996
+    }
+  },
+  "criterion": {
+    "rule": "default real_vs_band_end AUC <= 0.60 (max over classifiers)",
+    "value": 0.9888,
+    "pass": false
+  }
+}

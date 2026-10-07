@@ -1,0 +1,31 @@
+# 라벨 영상 500장만 담은 제출 패키지(--data labeled)용 설정. 사용: KMAP_CONFIG=configs/subset.yaml python run_all.py --profile core
+# default.yaml과 같고 무결성 기대값만 다릅니다(미라벨 영상이 없으므로 미라벨 예측 파일은 재생성되지 않음).
+seed: 42
+data_root: data
+raw:
+  bmp_glob: "test1/yolov3/X선이물검출기(06.23_09.22)/*/*/*.bmp"
+  labels_dir: "라벨링 6종 세트/labels"
+  extra_label_dirs: []
+paths:
+  interim: artifacts/interim
+  processed: artifacts/processed
+  splits: splits
+  outputs: outputs
+  figures: outputs/figures
+  tables: outputs/tables
+  predictions: outputs/predictions
+index:
+  burst_gap_s: 60
+  slot_hours: [0, 4, 8, 12, 16, 20]
+marking:
+  palette_min_index: 244
+  dilate_px: 2
+  inpaint: telea_n
+  inpaint_radius: 3
+expected:
+  n_bmp_files: 500
+  n_unique_images: 500
+  n_labeled_images: 500
+  n_objects: 1147
+  n_empty_txt: 0
+  n_cross_machine_dups: 0

@@ -1,0 +1,41 @@
+# 프로젝트 기본 설정. 경로는 모두 프로젝트 루트 기준 상대경로입니다.
+# data_root는 환경변수 KMAP_DATA_ROOT가 있으면 그 값을 우선합니다.
+
+seed: 42
+
+data_root: data            # KAMP 원본(읽기 전용). 이 폴더 안에는 아무것도 쓰지 않습니다.
+raw:
+  bmp_glob: "test1/yolov3/X선이물검출기(06.23_09.22)/*/*/*.bmp"
+  labels_dir: "라벨링 6종 세트/labels"          # 주 TXT 500개 (공식 정답)
+  extra_label_dirs:                              # 충돌 3·추가 12 stem 기록용 (학습·평가 미사용)
+    - "test1/yolov3/labels"
+    - "OpenLabeling-master/main/output/YOLO_darknet"
+
+paths:
+  interim: artifacts/interim       # 인덱스, 객체 표 (재생성 가능)
+  processed: artifacts/processed   # 마킹 처리 후 영상 (재생성 가능)
+  splits: splits                   # 고정 분할 (버전 관리 대상)
+  outputs: outputs
+  figures: outputs/figures
+  tables: outputs/tables
+  predictions: outputs/predictions
+
+index:
+  burst_gap_s: 60                  # 같은 호기에서 이 간격 이하면 같은 연속촬영 묶음
+  slot_hours: [0, 4, 8, 12, 16, 20]
+
+marking:
+  palette_min_index: 244           # 팔레트 0–243 = 회색(X-ray), 244–255 = 장비 마킹 색상
+  dilate_px: 2                     # 후광 제거용 대칭 팽창 (코어-마킹 최소 거리 4px → 간격 2px 유지)
+  inpaint: telea_n                 # telea_n(Telea+밝기별 잡음, 기본) | telea | ns | dir(짧은 방향 보간+잡음) | outside(ablation)
+                                   # 근거: outputs/figures/qc_inpaint_methods.png (outside는 사각형, dir는 십자 흔적)
+  inpaint_radius: 3
+
+# 데이터 무결성 기대값 (2026-10-02 실측). 다르면 index 단계가 중단됩니다.
+expected:
+  n_bmp_files: 2809
+  n_unique_images: 2532
+  n_labeled_images: 500
+  n_objects: 1147
+  n_empty_txt: 0
+  n_cross_machine_dups: 0

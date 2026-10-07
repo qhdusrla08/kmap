@@ -1,0 +1,18 @@
+# Python 3.11 (conda env "kmap"에서 검증, 2026-10-02)
+# GPU(CUDA 12.1) 빌드 설치:
+#   pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1
+torchvision==0.20.1
+ultralytics==8.3.40
+opencv-python==4.10.0.84
+numpy==2.1.3
+scipy==1.14.1
+scikit-learn==1.5.2
+pandas==2.2.3
+matplotlib==3.9.2
+pyyaml==6.0.2
+pycocotools==2.0.8
+pillow==11.0.0
+python-pptx==1.0.2
+pypdf==5.1.0
+joblib==1.6.0

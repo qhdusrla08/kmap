@@ -1,0 +1,159 @@
+{
+ "p3_coco_v2b": {
+  "speed": {
+   "ms_per_image_mean": 9.03606653213501,
+   "ms_per_image_p95": 19.209429621696472
+  },
+  "thresholds": {
+   "t_low": 0.9472842895214436,
+   "t_high": 0.9833361241116065,
+   "oof_F1_threshold": 0.359
+  },
+  "images": 100,
+  "objects": 178,
+  "AP50": 0.9726346821553827,
+  "AP75": 0.2124151627277255,
+  "AP50_95": 0.3916168137792664,
+  "at_oof_F1_threshold": {
+   "threshold": 0.359,
+   "TP": 175,
+   "FP": 3,
+   "FN": 3,
+   "precision": 0.9831460674157303,
+   "recall": 0.9831460674157303,
+   "F1": 0.9831460674157303,
+   "FPPI": 0.03
+  },
+  "R_at_FPPI_0_1": 0.9831460674157303,
+  "image_recall_one_obj_at_t_low": 0.8524590163934426,
+  "image_recall_all_at_t_low": 0.91,
+  "negproxy_fpr_at_t_low": 0.0,
+  "negproxy_fpr_at_t_high": 0.0,
+  "zones_positive": {
+   "reinspect": 0.56,
+   "reject": 0.35,
+   "pass": 0.09
+  },
+  "n_one_obj": 61,
+  "rule_of_three_upper_miss_one_obj": 0.04918032786885246,
+  "object_recall_at_oof_thr_CI95": [
+   0.9737609329446064,
+   1.0
+  ],
+  "by_machine": {
+   "1": {
+    "threshold": 0.359,
+    "TP": 38,
+    "FP": 0,
+    "FN": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "F1": 1.0,
+    "FPPI": 0.0
+   },
+   "2": {
+    "threshold": 0.359,
+    "TP": 80,
+    "FP": 2,
+    "FN": 2,
+    "precision": 0.975609756097561,
+    "recall": 0.975609756097561,
+    "F1": 0.975609756097561,
+    "FPPI": 0.043478260869565216
+   },
+   "3": {
+    "threshold": 0.359,
+    "TP": 57,
+    "FP": 1,
+    "FN": 1,
+    "precision": 0.9827586206896551,
+    "recall": 0.9827586206896551,
+    "F1": 0.9827586206896551,
+    "FPPI": 0.029411764705882353
+   }
+  }
+ },
+ "unlabeled": {
+  "n_images": 2032,
+  "speed": {
+   "ms_per_image_mean": 6.2132217283324,
+   "ms_per_image_p95": 7.372632622718811
+  },
+  "zones": {
+   "reinspect": 1169,
+   "reject": 715,
+   "pass": 148
+  }
+ },
+ "hgb": {
+  "speed": {
+   "ms_per_image_mean": 50.63308594020782
+  },
+  "thresholds": {
+   "t_low": 0.3283253037754828,
+   "t_high": 0.99577909522651,
+   "oof_F1_threshold": 0.9698
+  },
+  "images": 100,
+  "objects": 178,
+  "AP50": 0.9141675156392486,
+  "AP75": 0.2054992329945945,
+  "AP50_95": 0.3901051414493329,
+  "at_oof_F1_threshold": {
+   "threshold": 0.9698,
+   "TP": 167,
+   "FP": 14,
+   "FN": 11,
+   "precision": 0.9226519337016574,
+   "recall": 0.9382022471910112,
+   "F1": 0.9303621169916434,
+   "FPPI": 0.14
+  },
+  "R_at_FPPI_0_1": 0.9382022471910112,
+  "image_recall_one_obj_at_t_low": 1.0,
+  "image_recall_all_at_t_low": 0.99,
+  "negproxy_fpr_at_t_low": 0.0,
+  "negproxy_fpr_at_t_high": 0.0,
+  "zones_positive": {
+   "reinspect": 1.0
+  },
+  "n_one_obj": 61,
+  "rule_of_three_upper_miss_one_obj": 0.04918032786885246,
+  "object_recall_at_oof_thr_CI95": [
+   0.9121813031161473,
+   1.0
+  ],
+  "by_machine": {
+   "1": {
+    "threshold": 0.9698,
+    "TP": 38,
+    "FP": 1,
+    "FN": 0,
+    "precision": 0.9743589743589743,
+    "recall": 1.0,
+    "F1": 0.9870129870129869,
+    "FPPI": 0.05
+   },
+   "2": {
+    "threshold": 0.9698,
+    "TP": 72,
+    "FP": 12,
+    "FN": 10,
+    "precision": 0.8571428571428571,
+    "recall": 0.8780487804878049,
+    "F1": 0.8674698795180722,
+    "FPPI": 0.2608695652173913
+   },
+   "3": {
+    "threshold": 0.9698,
+    "TP": 57,
+    "FP": 1,
+    "FN": 1,
+    "precision": 0.9827586206896551,
+    "recall": 0.9827586206896551,
+    "F1": 0.9827586206896551,
+    "FPPI": 0.029411764705882353
+   }
+  }
+ }
+}

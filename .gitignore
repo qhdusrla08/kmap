@@ -1,0 +1,8 @@
+# 원본 데이터(KAMP X-ray 검사장비 AI 데이터셋): 재배포하지 않음. README의 데이터 배치 안내 참조
+data/
+# 재생성 가능한 중간 산출물·모델 가중치(run_all.py로 다시 생성)
+artifacts/
+# 파이썬·노트북 캐시
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

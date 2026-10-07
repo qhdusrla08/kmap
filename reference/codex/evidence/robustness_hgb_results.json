@@ -1,0 +1,791 @@
+{
+  "experiments": [
+    {
+      "AP50": 0.9849624060150376,
+      "recall": 0.9849624060150376,
+      "precision": 1.0,
+      "F1": 0.9924242424242424,
+      "TP": 131,
+      "FP": 0,
+      "FN": 2,
+      "images": 133,
+      "objects": 133,
+      "FP_per_image": 0.0,
+      "seed": 42,
+      "variant": "inpaint",
+      "threshold": 0.05
+    },
+    {
+      "AP50": 0.9643146327356855,
+      "recall": 0.9699248120300752,
+      "precision": 0.9923076923076923,
+      "F1": 0.9809885931558935,
+      "TP": 129,
+      "FP": 1,
+      "FN": 4,
+      "images": 133,
+      "objects": 133,
+      "FP_per_image": 0.007518796992481203,
+      "seed": 42,
+      "variant": "dilation2",
+      "threshold": 0.05
+    },
+    {
+      "AP50": 0.984054094968966,
+      "recall": 0.9774436090225563,
+      "precision": 1.0,
+      "F1": 0.9885931558935361,
+      "TP": 130,
+      "FP": 0,
+      "FN": 3,
+      "images": 133,
+      "objects": 133,
+      "FP_per_image": 0.0,
+      "seed": 42,
+      "variant": "dilation3",
+      "threshold": 0.05
+    },
+    {
+      "AP50": 0.9508341165413533,
+      "recall": 0.9548872180451128,
+      "precision": 0.9921875,
+      "F1": 0.9731800766283525,
+      "TP": 127,
+      "FP": 1,
+      "FN": 6,
+      "images": 133,
+      "objects": 133,
+      "FP_per_image": 0.007518796992481203,
+      "seed": 42,
+      "variant": "product_decoy",
+      "threshold": 0.05
+    },
+    {
+      "AP50": 0.0052096177048388086,
+      "recall": 0.015037593984962405,
+      "precision": 0.07407407407407407,
+      "F1": 0.025,
+      "TP": 2,
+      "FP": 25,
+      "FN": 131,
+      "images": 133,
+      "objects": 133,
+      "FP_per_image": 0.18796992481203006,
+      "seed": 42,
+      "variant": "erase_marker_interior",
+      "threshold": 0.05
+    },
+    {
+      "AP50": 0.0050973020787262275,
+      "recall": 0.0,
+      "precision": 0.0,
+      "F1": 0.0,
+      "TP": 0,
+      "FP": 1,
+      "FN": 133,
+      "images": 133,
+      "objects": 133,
+      "FP_per_image": 0.007518796992481203,
+      "seed": 42,
+      "variant": "median3",
+      "threshold": 0.05
+    },
+    {
+      "AP50": 0.9924812030075187,
+      "recall": 0.9924812030075187,
+      "precision": 1.0,
+      "F1": 0.9962264150943396,
+      "TP": 132,
+      "FP": 0,
+      "FN": 1,
+      "images": 133,
+      "objects": 133,
+      "FP_per_image": 0.0,
+      "seed": 84,
+      "variant": "inpaint",
+      "threshold": 0.1
+    },
+    {
+      "AP50": 0.9803406723865767,
+      "recall": 0.9624060150375939,
+      "precision": 0.9922480620155039,
+      "F1": 0.9770992366412213,
+      "TP": 128,
+      "FP": 1,
+      "FN": 5,
+      "images": 133,
+      "objects": 133,
+      "FP_per_image": 0.007518796992481203,
+      "seed": 2026,
+      "variant": "inpaint",
+      "threshold": 0.15
+    }
+  ],
+  "decoy_object_overlap": [
+    {
+      "stem": "001_20200819_003039(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200819_003044(1)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200819_043209(9)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200819_043216(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200819_083353(5)",
+      "object": 0,
+      "product_decoy_overlap": 7
+    },
+    {
+      "stem": "001_20200819_083401(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200819_124414(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200819_124415(9)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200819_162723(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200821_150525(5)",
+      "object": 0,
+      "product_decoy_overlap": 78
+    },
+    {
+      "stem": "001_20200821_150529(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200821_163349(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200821_163353(8)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200826_023328(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200826_023332(5)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200826_043252(8)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200826_043255(8)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200826_123711(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200826_123714(5)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200831_083711(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200831_083714(8)",
+      "object": 0,
+      "product_decoy_overlap": 76
+    },
+    {
+      "stem": "001_20200831_123316(5)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200831_163149(1)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200831_163150(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200831_203101(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200831_203105(9)",
+      "object": 0,
+      "product_decoy_overlap": 11
+    },
+    {
+      "stem": "002_20200901_003133(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_003136(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_003139(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_003142(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_003148(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_043133(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_043136(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_043139(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_043142(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_043145(5)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_043148(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_083204(5)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_083452(2)",
+      "object": 0,
+      "product_decoy_overlap": 56
+    },
+    {
+      "stem": "002_20200901_083456(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_083501(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_083505(8)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_083510(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_083514(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_123049(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_123052(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_123100(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_123104(8)",
+      "object": 0,
+      "product_decoy_overlap": 81
+    },
+    {
+      "stem": "002_20200901_123109(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_191340(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_191343(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_191346(1)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200901_191348(8)",
+      "object": 0,
+      "product_decoy_overlap": 20
+    },
+    {
+      "stem": "002_20200901_191351(5)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200904_230054(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200904_230057(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200904_230105(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_003315(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_003319(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_003323(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_003327(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_003331(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_003335(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_043156(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_043200(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_043204(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_043208(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_043212(1)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_043216(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_083407(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_083410(5)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_083413(6)",
+      "object": 0,
+      "product_decoy_overlap": 8
+    },
+    {
+      "stem": "002_20200905_083416(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_083419(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_083422(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_123055(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_123058(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_123102(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_123103(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_123105(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_123107(5)",
+      "object": 0,
+      "product_decoy_overlap": 67
+    },
+    {
+      "stem": "002_20200905_123108(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_123111(6)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_123112(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_163920(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_163922(9)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_163924(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_163926(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_163928(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_163929(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_163932(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_163932(9)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_163936(2)",
+      "object": 0,
+      "product_decoy_overlap": 27
+    },
+    {
+      "stem": "002_20200905_163936(3)",
+      "object": 0,
+      "product_decoy_overlap": 53
+    },
+    {
+      "stem": "002_20200905_163939(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_163940(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_203836(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_203840(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_203844(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_203848(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_203856(3)",
+      "object": 0,
+      "product_decoy_overlap": 41
+    },
+    {
+      "stem": "002_20200905_203900(3)",
+      "object": 0,
+      "product_decoy_overlap": 27
+    },
+    {
+      "stem": "002_20200905_204033(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_204039(5)",
+      "object": 0,
+      "product_decoy_overlap": 7
+    },
+    {
+      "stem": "002_20200905_204042(9)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_204046(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_204049(1)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200905_204052(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003059(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003114(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003114(8)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003117(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003118(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003120(8)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003122(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003124(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003126(8)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003127(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003130(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200906_003132(7)",
+      "object": 0,
+      "product_decoy_overlap": 30
+    },
+    {
+      "stem": "002_20200907_184813(1)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200907_184815(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200907_184818(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200907_184823(7)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200907_184826(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200907_184828(8)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200907_204635(5)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200907_204640(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200907_204644(5)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200907_204649(0)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "002_20200907_204653(4)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200922_163332(2)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    },
+    {
+      "stem": "001_20200922_163335(3)",
+      "object": 0,
+      "product_decoy_overlap": 0
+    }
+  ]
+}

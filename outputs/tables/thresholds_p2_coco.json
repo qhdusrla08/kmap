@@ -1,0 +1,70 @@
+{
+  "model": "p2_coco",
+  "calibration": "platt",
+  "ece": {
+    "isotonic": 0.0006743107584092395,
+    "platt": 0.0006574352649558219,
+    "raw": 0.22541521486442817
+  },
+  "brier": {
+    "isotonic": 0.012278321650368693,
+    "platt": 0.012085680900914508,
+    "raw": 0.08086084769464172
+  },
+  "target_recall": 0.99,
+  "target_reachable": true,
+  "max_recall_one_obj": 1.0,
+  "max_fpr": 0.0,
+  "t_low": 0.8626624612330551,
+  "t_high": 0.989750905872981,
+  "zone_collapsed": false,
+  "zones": {
+    "positive_images(one_obj)": {
+      "pass_": 0.008695652173913044,
+      "reinspect": 0.8695652173913043,
+      "reject": 0.12173913043478261
+    },
+    "positive_images(all)": {
+      "pass_": 0.0025,
+      "reinspect": 0.9225,
+      "reject": 0.075
+    },
+    "negative_proxy(bg_max)": {
+      "pass_": 0.9975,
+      "reinspect": 0.0025,
+      "reject": 0.0
+    }
+  },
+  "recall_one_obj_at_t_low": 0.991304347826087,
+  "recall_one_obj_at_t_low_CI95": [
+    0.963855421686747,
+    1.0
+  ],
+  "rule_of_three_upper_miss": 0.02608695652173913,
+  "n_one_obj": 115,
+  "n_images": 400,
+  "negative_proxy_fpr_at_t_low": 0.0025,
+  "scenarios": [
+    {
+      "prevalence": 0.001,
+      "miss_rate_per_item": 8.695652173913044e-06,
+      "reinspect_rate": 0.0033670652173912515,
+      "reject_rate": 0.00012173913043478261,
+      "precision_of_flag": 0.28413870455183166
+    },
+    {
+      "prevalence": 0.01,
+      "miss_rate_per_item": 8.695652173913044e-05,
+      "reinspect_rate": 0.011170652173912993,
+      "reject_rate": 0.0012173913043478262,
+      "precision_of_flag": 0.8002105817320382
+    },
+    {
+      "prevalence": 0.1,
+      "miss_rate_per_item": 0.0008695652173913044,
+      "reinspect_rate": 0.08920652173913039,
+      "reject_rate": 0.012173913043478262,
+      "precision_of_flag": 0.9778063686072698
+    }
+  ]
+}

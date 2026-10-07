@@ -1,0 +1,47 @@
+[
+  {
+    "stage": "audit.py",
+    "exit_code": 0,
+    "elapsed_seconds": 30.64
+  },
+  {
+    "stage": "extra_audit.py",
+    "exit_code": 0,
+    "elapsed_seconds": 5.73
+  },
+  {
+    "stage": "provenance.py",
+    "exit_code": 0,
+    "elapsed_seconds": 5.03
+  },
+  {
+    "stage": "experiments.py",
+    "exit_code": 0,
+    "elapsed_seconds": 178.62
+  },
+  {
+    "stage": "robustness.py",
+    "exit_code": 0,
+    "elapsed_seconds": 129.47
+  },
+  {
+    "stage": "robustness_hgb.py",
+    "exit_code": 0,
+    "elapsed_seconds": 52.47
+  },
+  {
+    "stage": "overlap_experiment.py",
+    "exit_code": 0,
+    "elapsed_seconds": 24.02
+  },
+  {
+    "stage": "summarize.py",
+    "exit_code": 0,
+    "elapsed_seconds": 2.45
+  },
+  {
+    "stage": "verify.py",
+    "exit_code": 0,
+    "elapsed_seconds": 0.09
+  }
+]

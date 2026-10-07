@@ -1,0 +1,51 @@
+{
+ "model": "p2_coco_v2b",
+ "calibration": "platt",
+ "ece": {
+  "isotonic": 0.004572791421698436,
+  "platt": 0.0027664204873926925,
+  "raw": 0.21701674215798228
+ },
+ "brier": {
+  "isotonic": 0.020523711775459356,
+  "platt": 0.019570874385987033,
+  "raw": 0.08423591726113565
+ },
+ "target_recall": 0.99,
+ "target_reachable": true,
+ "max_recall_one_obj": 1.0,
+ "max_fpr": 0.0,
+ "t_low": 0.9495367025876195,
+ "t_high": 0.9788714334940053,
+ "zone_collapsed": false,
+ "zones": {
+  "positive_images(one_obj)": {
+   "pass_": 0.008695652173913044,
+   "reinspect": 0.808695652173913,
+   "reject": 0.1826086956521739
+  },
+  "positive_images(all)": {
+   "pass_": 0.025,
+   "reinspect": 0.815,
+   "reject": 0.16
+  },
+  "negative_proxy(bg_max)": {
+   "pass_": 0.9975,
+   "reinspect": 0.0025,
+   "reject": 0.0
+  }
+ },
+ "recall_one_obj_at_t_low": 0.991304347826087,
+ "recall_one_obj_at_t_low_CI95": [
+  0.963855421686747,
+  1.0
+ ],
+ "rule_of_three_upper_miss": 0.02608695652173913,
+ "n_one_obj": 115,
+ "n_images": 400,
+ "negative_proxy_fpr_at_t_low": 0.0025
+}
+ prevalence  miss_rate_per_item  reinspect_rate  reject_rate  precision_of_flag
+      0.001            0.000009        0.003306     0.000183           0.284139
+      0.010            0.000087        0.010562     0.001826           0.800211
+      0.100            0.000870        0.083120     0.018261           0.977806
